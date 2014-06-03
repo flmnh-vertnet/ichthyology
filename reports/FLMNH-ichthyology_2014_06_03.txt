@@ -1,0 +1,108 @@
+Report for Institution Code FLMNH, Resource ichthyology
+Usage stats for May, 2014, generated on 2014/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 64
+Number of records retrieved in searches: 1362
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Thailand ; Times: 13
+	Country: United States ; Times: 41
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-05-01 ; Times: 9
+	Date: 2014-05-02 ; Times: 2
+	Date: 2014-05-08 ; Times: 5
+	Date: 2014-05-09 ; Times: 1
+	Date: 2014-05-12 ; Times: 5
+	Date: 2014-05-13 ; Times: 3
+	Date: 2014-05-14 ; Times: 4
+	Date: 2014-05-16 ; Times: 14
+	Date: 2014-05-18 ; Times: 1
+	Date: 2014-05-19 ; Times: 2
+	Date: 2014-05-20 ; Times: 2
+	Date: 2014-05-21 ; Times: 1
+	Date: 2014-05-22 ; Times: 2
+	Date: 2014-05-23 ; Times: 7
+	Date: 2014-05-28 ; Times: 5
+	Date: 2014-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Potamotrygon" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Trichomycterus" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Poeciliopsis" ; Times: 1
+	Query: "astroblepus" ; Times: 3
+	Query: "fundulus olivaceus" ; Times: 2
+	Query: "ara" ; Times: 1
+	Query: "Synbranchidae" ; Times: 7
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Astyanax" ; Times: 1
+	Query: "PECTORALIS type:specimen AND (NOT AVES NOT PEROMYSCUS)" ; Times: 1
+	Query: "Cabinda" ; Times: 2
+	Query: "stateprovince:"new york" specificepithet:lucius genus:esox year >= 1930 year <= 1975" ; Times: 1
+	Query: "coryphopterus mappable:1" ; Times: 1
+	Query: "crystallaria asprella" ; Times: 1
+	Query: "Micropogonias undulatus" ; Times: 2
+	Query: "Poecilia sphenops" ; Times: 3
+	Query: "Smooth-hound" ; Times: 2
+	Query: "Serranus atrobranchus" ; Times: 1
+	Query: "novae" ; Times: 1
+	Query: "coryphopterus" ; Times: 2
+	Query: "Mustelus" ; Times: 2
+	Query: "country:"Panama" genus:Parauchenipterus" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(32.509761735919426,-121.88232421875))<100000" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(32.10118973232094,-121.201171875))<100000" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Pimelodella" ; Times: 1
+	Query: "coryphopterus type:specimen mappable:1" ; Times: 2
+	Query: "megalotis arkansas" ; Times: 1
+	Query: "Pteronotropis hubbsi" ; Times: 4
+	Query: "cuchia" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" genus:Aequidens" ; Times: 1
+	Query: "distance(location,geopoint(1.625758360412755,0.90087890625))<209101" ; Times: 1
+	Query: "arenatus" ; Times: 2
+	Query: "Stylephorus" ; Times: 2
+	Query: "hypophthalmichthys nobilis" ; Times: 1
+	Query: "Physiculus rastrelliger" ; Times: 1
+	Query: "genus:Awaous tissue:1" ; Times: 2
+	Query: "percina nigrofasciata" ; Times: 1
+	Query: "Bryconamericus" ; Times: 1
+	Query: "Porichthys notatus" ; Times: 1
+	Query: "country:"Panama" genus:Astyanax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 267
+Total number of records retrieved from searches: 4778
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 267
+Total number of records retrieved from searches: 4778
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
