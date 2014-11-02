@@ -1,0 +1,92 @@
+Report for Institution Code FLMNH, Resource ichthyology
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 334
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 1
+	Date: 2014-10-11 ; Times: 1
+	Date: 2014-10-15 ; Times: 2
+	Date: 2014-10-16 ; Times: 8
+	Date: 2014-10-17 ; Times: 2
+	Date: 2014-10-19 ; Times: 2
+	Date: 2014-10-20 ; Times: 4
+	Date: 2014-10-21 ; Times: 2
+	Date: 2014-10-22 ; Times: 1
+	Date: 2014-10-23 ; Times: 1
+	Date: 2014-10-24 ; Times: 4
+	Date: 2014-10-25 ; Times: 2
+	Date: 2014-10-27 ; Times: 2
+	Date: 2014-10-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "mykiss" ; Times: 1
+	Query: ""run forest"" ; Times: 1
+	Query: "astroblepus" ; Times: 1
+	Query: "halloween" ; Times: 3
+	Query: "nun" ; Times: 1
+	Query: "Danio rerio" ; Times: 3
+	Query: "lost county:"Walker" stateprovince:"Alabama"" ; Times: 2
+	Query: "Lutjanus argentiventris" ; Times: 2
+	Query: "chattahoochee specificepithet:sp. genus:moxostoma" ; Times: 1
+	Query: "chattahoochee genus:moxostoma" ; Times: 1
+	Query: "occurence data species" ; Times: 1
+	Query: "Danio rerio mappable:1" ; Times: 1
+	Query: "Synbranchus" ; Times: 1
+	Query: "LACM Ichthyology" ; Times: 1
+	Query: "occurence species" ; Times: 1
+	Query: "arapaima gigas" ; Times: 1
+	Query: "bulldog" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "Ophisternon" ; Times: 1
+	Query: "Sardina type:specimen" ; Times: 3
+	Query: "Trichomycterus" ; Times: 2
+	Query: "haplophryne" ; Times: 1
+	Query: "pacific fisher data" ; Times: 1
+	Query: "urophycis cirrata" ; Times: 1
+	Query: "trichomycterus" ; Times: 1
+	Query: "guahiborum" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 567
+Total number of records retrieved from searches: 9604
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 567
+Total number of records retrieved from searches: 9604
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
