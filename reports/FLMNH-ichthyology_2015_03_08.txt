@@ -1,0 +1,95 @@
+Report for Institution Code FLMNH, Resource ichthyology
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 39
+Number of records retrieved in searches: 359
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-03 ; Times: 5
+	Date: 2015-02-04 ; Times: 3
+	Date: 2015-02-05 ; Times: 1
+	Date: 2015-02-07 ; Times: 1
+	Date: 2015-02-08 ; Times: 1
+	Date: 2015-02-09 ; Times: 1
+	Date: 2015-02-11 ; Times: 5
+	Date: 2015-02-12 ; Times: 1
+	Date: 2015-02-15 ; Times: 1
+	Date: 2015-02-18 ; Times: 3
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-20 ; Times: 4
+	Date: 2015-02-22 ; Times: 4
+	Date: 2015-02-24 ; Times: 2
+	Date: 2015-02-25 ; Times: 2
+	Date: 2015-02-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Etheostoma sitikuense" ; Times: 1
+	Query: "Ateleopus" ; Times: 1
+	Query: "county:"Hall" stateprovince:"Nebraska" year <= 2015" ; Times: 1
+	Query: "Lepidosiren" ; Times: 2
+	Query: "Diaphus lucidus" ; Times: 1
+	Query: "platytroctidae" ; Times: 1
+	Query: "Anguilla rostrata mexico" ; Times: 3
+	Query: "bubalus" ; Times: 1
+	Query: "ateleopodidae" ; Times: 1
+	Query: "leporacanthicus" ; Times: 1
+	Query: "Regina tissue:1" ; Times: 2
+	Query: "ateleopus" ; Times: 1
+	Query: "lepidosiren" ; Times: 1
+	Query: "andrei" ; Times: 4
+	Query: "aledo illinois" ; Times: 2
+	Query: "specificepithet:notius genus:Micropterus (skeleton)" ; Times: 1
+	Query: "nannostomus" ; Times: 3
+	Query: "specificepithet:sp genus:bryconamericus" ; Times: 2
+	Query: "Gorgona Island" ; Times: 1
+	Query: "danube river" ; Times: 1
+	Query: "yuwonoi" ; Times: 1
+	Query: "buhoma tissue:1" ; Times: 1
+	Query: "aquia creek" ; Times: 4
+	Query: "ummz margarita" ; Times: 1
+	Query: "heterodon wisconsin" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 669
+Total number of records retrieved from searches: 11269
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 741
+Total number of records retrieved from searches: 12122
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
