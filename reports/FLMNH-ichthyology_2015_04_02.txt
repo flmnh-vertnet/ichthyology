@@ -1,0 +1,121 @@
+Report for Institution Code FLMNH, Resource ichthyology
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 60
+Number of records retrieved in searches: 610
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 2
+	Country: Mexico ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 49
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-02 ; Times: 3
+	Date: 2015-03-03 ; Times: 2
+	Date: 2015-03-05 ; Times: 1
+	Date: 2015-03-06 ; Times: 20
+	Date: 2015-03-07 ; Times: 2
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-10 ; Times: 5
+	Date: 2015-03-11 ; Times: 3
+	Date: 2015-03-13 ; Times: 3
+	Date: 2015-03-15 ; Times: 1
+	Date: 2015-03-16 ; Times: 1
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-19 ; Times: 1
+	Date: 2015-03-20 ; Times: 2
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-27 ; Times: 1
+	Date: 2015-03-28 ; Times: 2
+	Date: 2015-03-30 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Xiphophorus montezumae" ; Times: 1
+	Query: "percina palmaris tulane" ; Times: 1
+	Query: "plectroglyphidodon country:"Marshall Islands"" ; Times: 1
+	Query: "Stigmatura" ; Times: 1
+	Query: "acanthurus achilles country:"Marshall Islands"" ; Times: 1
+	Query: "platytroctes apus" ; Times: 2
+	Query: "collin county" ; Times: 1
+	Query: "Evans stateprovince:"New York"" ; Times: 1
+	Query: "Dascyllus country:"Marshall Islands"" ; Times: 2
+	Query: "canthigaster country:"Marshall Islands"" ; Times: 1
+	Query: "uf 20858" ; Times: 1
+	Query: "blue marlin" ; Times: 1
+	Query: "coris aygula" ; Times: 1
+	Query: "Mussau Island" ; Times: 2
+	Query: "canthigaster amboinensis" ; Times: 1
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Actinopterygii institutioncode:FLMNH" ; Times: 1
+	Query: "Percina palmaris alabama terrapin" ; Times: 1
+	Query: "searsia koefoedi" ; Times: 1
+	Query: "noturus flavus norden" ; Times: 1
+	Query: "country:"greece" AND (NOT Mammalia NOT Aves NOT Actinopteri NOT Actinopterigyii NOT Amphibia)" ; Times: 1
+	Query: "mentodus rostratus" ; Times: 3
+	Query: "sardina country:"nicaragua"" ; Times: 1
+	Query: "coris gaimard country:"Marshall Islands"" ; Times: 2
+	Query: "antimora type:specimen year <= 2000" ; Times: 1
+	Query: "deli" ; Times: 1
+	Query: "country:"greece" AND (NOT Mammalia NOT Bufo)" ; Times: 1
+	Query: "stateprovince:"Veraguas" country:"Panama" class:Actinopterygii institutioncode:FLMNH" ; Times: 1
+	Query: "stateprovince:"Herrera" country:"Panama" class:Actinopterygii institutioncode:FLMNH" ; Times: 1
+	Query: "acanthurus olivaceus country:"Marshall Islands"" ; Times: 1
+	Query: "Pimelodina flavipinnis" ; Times: 1
+	Query: "Echinorhinus cookei" ; Times: 1
+	Query: "alburnus" ; Times: 1
+	Query: "noturus flavus garrett" ; Times: 1
+	Query: "Percina palmaris" ; Times: 1
+	Query: "xiphiidae" ; Times: 1
+	Query: "noturus flavus maryland" ; Times: 1
+	Query: "venusta institutioncode:FLMNH" ; Times: 3
+	Query: "racoon" ; Times: 1
+	Query: "oklahoma kaw" ; Times: 2
+	Query: "stateprovince:"Los Santos" country:"Panama" class:Actinopterygii" ; Times: 4
+	Query: "aguaro" ; Times: 2
+	Query: "pervagor janthinosoma" ; Times: 1
+	Query: "maulisia argipalla" ; Times: 1
+	Query: "Te Vega" ; Times: 1
+	Query: "227991" ; Times: 1
+	Query: "stateprovince:"Cocle" country:"Panama" class:Actinopterygii institutioncode:FLMNH" ; Times: 1
+	Query: "actinopterygii vorax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 729
+Total number of records retrieved from searches: 11879
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 801
+Total number of records retrieved from searches: 12732
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
