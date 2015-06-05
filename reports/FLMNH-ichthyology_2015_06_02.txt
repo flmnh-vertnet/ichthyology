@@ -1,0 +1,157 @@
+Report for Institution Code FLMNH, Resource ichthyology
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 99
+Number of records retrieved in searches: 1032
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 10
+	Country: Australia ; Times: 2
+	Country: Belgium ; Times: 1
+	Country: Brazil ; Times: 5
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 4
+	Country: Czech Republic ; Times: 1
+	Country: Germany ; Times: 5
+	Country: Mexico ; Times: 7
+	Country: Panama ; Times: 2
+	Country: South Korea ; Times: 1
+	Country: Spain ; Times: 2
+	Country: United States ; Times: 58
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 4
+	Date: 2015-05-06 ; Times: 1
+	Date: 2015-05-07 ; Times: 3
+	Date: 2015-05-08 ; Times: 4
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 3
+	Date: 2015-05-12 ; Times: 11
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-14 ; Times: 1
+	Date: 2015-05-15 ; Times: 5
+	Date: 2015-05-18 ; Times: 5
+	Date: 2015-05-19 ; Times: 3
+	Date: 2015-05-20 ; Times: 2
+	Date: 2015-05-21 ; Times: 5
+	Date: 2015-05-22 ; Times: 4
+	Date: 2015-05-23 ; Times: 2
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-25 ; Times: 9
+	Date: 2015-05-26 ; Times: 14
+	Date: 2015-05-27 ; Times: 3
+	Date: 2015-05-28 ; Times: 11
+	Date: 2015-05-29 ; Times: 3
+	Date: 2015-05-30 ; Times: 2
+	Date: 2015-05-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "cave stateprovince:"Georgia" year >= 1700 year <= 2015" ; Times: 1
+	Query: "11092" ; Times: 1
+	Query: "10270" ; Times: 2
+	Query: "pseudocarcharias" ; Times: 2
+	Query: "county:"allen" stateprovince:"kentucky" genus:noturus" ; Times: 1
+	Query: "55546" ; Times: 1
+	Query: "30758" ; Times: 1
+	Query: "peprilus medius" ; Times: 1
+	Query: "R-184488" ; Times: 1
+	Query: "FLMNH "Archbold Biological Station"" ; Times: 1
+	Query: "122533" ; Times: 1
+	Query: "lizard skeletons" ; Times: 2
+	Query: "ZSM" ; Times: 1
+	Query: "recordedby:harrigan" ; Times: 1
+	Query: "R 184443" ; Times: 1
+	Query: "r-87381" ; Times: 1
+	Query: "elasson" ; Times: 1
+	Query: "mappable:1 distance(location,geopoint(21.125497636606276,-70.927734375))<100000" ; Times: 1
+	Query: "erimystax cahni" ; Times: 1
+	Query: "119603" ; Times: 2
+	Query: "119602" ; Times: 1
+	Query: "202942" ; Times: 1
+	Query: "11093" ; Times: 1
+	Query: "county:"tazewell" stateprovince:"virginia" genus:etheostoma" ; Times: 1
+	Query: "alopias" ; Times: 1
+	Query: "catalognumber:16156" ; Times: 1
+	Query: "catalognumber:160970" ; Times: 1
+	Query: "beach station stateprovince:"illinois"" ; Times: 1
+	Query: "catalognumber:30758" ; Times: 1
+	Query: "limbaughi" ; Times: 1
+	Query: "canthigaster amboinensis" ; Times: 1
+	Query: "ateleopodidae" ; Times: 1
+	Query: "chromis agilis" ; Times: 1
+	Query: "75588" ; Times: 1
+	Query: "thalassoma purpureum" ; Times: 1
+	Query: "cottus bairdii idaho" ; Times: 1
+	Query: "county:"allen" stateprovince:"kentucky" genus:etheostoma" ; Times: 1
+	Query: "Stenotomus chrysops" ; Times: 1
+	Query: "Chrysochloris" ; Times: 1
+	Query: "erimystax" ; Times: 2
+	Query: "catalognumber:221827" ; Times: 5
+	Query: "78732" ; Times: 1
+	Query: "hoplias microlepis" ; Times: 2
+	Query: "FLMNH Layne" ; Times: 3
+	Query: "Alopias" ; Times: 1
+	Query: "88511" ; Times: 1
+	Query: "Trichomycterus rivulatus" ; Times: 1
+	Query: "MACN" ; Times: 1
+	Query: "tissue:1 distance(location,geopoint(33.89474025320642,-80.5078125))<100000" ; Times: 1
+	Query: "58062" ; Times: 1
+	Query: "catalognumber:92555" ; Times: 1
+	Query: "catalognumber:206332" ; Times: 1
+	Query: "crawfordville stateprovince:"florida"" ; Times: 2
+	Query: "stateprovince:"La Guajira" country:"Colombia" institutioncode:FLMNH" ; Times: 1
+	Query: "103178" ; Times: 1
+	Query: "erotelis armiger" ; Times: 8
+	Query: "carpiodes velifer" ; Times: 2
+	Query: "mitsukurina" ; Times: 1
+	Query: "Stegastes fuscus" ; Times: 3
+	Query: "169828" ; Times: 1
+	Query: "54847" ; Times: 1
+	Query: "Laoensis" ; Times: 1
+	Query: "52375" ; Times: 1
+	Query: "Carpiodes cyprinus" ; Times: 1
+	Query: "station beach stateprovince:"sonora"" ; Times: 1
+	Query: "cave stateprovince:"Alabama" year >= 1700 year <= 2015" ; Times: 1
+	Query: "94030" ; Times: 1
+	Query: "narcine brasiliensis" ; Times: 3
+	Query: "cottus bairdii Idaho" ; Times: 1
+	Query: "escudo de veraguas" ; Times: 2
+	Query: ""fasciata" stateprovince:"Texas"" ; Times: 1
+	Query: "Catostomus catostomus tissue:1" ; Times: 1
+	Query: "plectroglyphidodon imparipennis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 828
+Total number of records retrieved from searches: 12911
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 900
+Total number of records retrieved from searches: 13764
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
