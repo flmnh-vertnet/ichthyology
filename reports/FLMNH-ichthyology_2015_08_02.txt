@@ -1,0 +1,272 @@
+Report for Institution Code FLMNH, Resource ichthyology
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 294
+Number of records retrieved in searches: 2519
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 5
+	Country: Austria ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 3
+	Country: Germany ; Times: 3
+	Country: Mexico ; Times: 2
+	Country: Russia ; Times: 64
+	Country: United Kingdom ; Times: 5
+	Country: United States ; Times: 205
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 6
+	Date: 2015-07-02 ; Times: 9
+	Date: 2015-07-03 ; Times: 7
+	Date: 2015-07-05 ; Times: 2
+	Date: 2015-07-06 ; Times: 50
+	Date: 2015-07-07 ; Times: 8
+	Date: 2015-07-08 ; Times: 28
+	Date: 2015-07-09 ; Times: 30
+	Date: 2015-07-10 ; Times: 5
+	Date: 2015-07-11 ; Times: 15
+	Date: 2015-07-12 ; Times: 2
+	Date: 2015-07-13 ; Times: 6
+	Date: 2015-07-14 ; Times: 8
+	Date: 2015-07-15 ; Times: 12
+	Date: 2015-07-16 ; Times: 6
+	Date: 2015-07-17 ; Times: 18
+	Date: 2015-07-18 ; Times: 3
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 3
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 7
+	Date: 2015-07-23 ; Times: 13
+	Date: 2015-07-24 ; Times: 9
+	Date: 2015-07-27 ; Times: 9
+	Date: 2015-07-28 ; Times: 13
+	Date: 2015-07-29 ; Times: 12
+	Date: 2015-07-30 ; Times: 9
+	Date: 2015-07-31 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "22774" ; Times: 1
+	Query: "catalognumber:38002" ; Times: 1
+	Query: "catalognumber:21655" ; Times: 1
+	Query: "escualosa thoracata" ; Times: 1
+	Query: "genus:Tiaroga" ; Times: 2
+	Query: "specificepithet:tetranema genus:Macrhybopsis" ; Times: 6
+	Query: "51472" ; Times: 1
+	Query: "Coregonus nipigon" ; Times: 2
+	Query: "alectis ciliaris gulf" ; Times: 1
+	Query: "27802" ; Times: 1
+	Query: "Regalecus" ; Times: 9
+	Query: "catalognumber:127640" ; Times: 2
+	Query: "UF 117789" ; Times: 1
+	Query: "antennablennius australis" ; Times: 1
+	Query: "microgobius emblematicus" ; Times: 1
+	Query: "Arapaima gigas" ; Times: 1
+	Query: "regalecus" ; Times: 1
+	Query: "14470" ; Times: 1
+	Query: "catalognumber:96307" ; Times: 1
+	Query: "95741" ; Times: 1
+	Query: "142880 type:specimen" ; Times: 1
+	Query: "decapterus macrosoma gulf" ; Times: 1
+	Query: "ruvettus gulf" ; Times: 1
+	Query: "Cyprinella gibbsi tallapoosa river" ; Times: 3
+	Query: "stateprovince:"Oklahoma" specificepithet:camura genus:Cyprinella" ; Times: 1
+	Query: "type:specimen catalognumber:110263" ; Times: 1
+	Query: "42291" ; Times: 1
+	Query: "81805" ; Times: 1
+	Query: "carangoides equula" ; Times: 2
+	Query: "14299" ; Times: 4
+	Query: "snake utah" ; Times: 1
+	Query: "darien country:"colombia"" ; Times: 2
+	Query: "bathymyrus" ; Times: 1
+	Query: "county:"Laurens" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "county:"Edgefield" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "cyprinidae institutioncode:flmnh" ; Times: 2
+	Query: "222738" ; Times: 1
+	Query: "Cyprinella caerulea" ; Times: 19
+	Query: "33125" ; Times: 1
+	Query: "catalognumber:96258" ; Times: 1
+	Query: "county:"Newberry" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "vipera" ; Times: 2
+	Query: "tardoore" ; Times: 1
+	Query: "178475" ; Times: 1
+	Query: "alepes vari" ; Times: 1
+	Query: "catalognumber:223963" ; Times: 1
+	Query: "parablennius pilicornis" ; Times: 1
+	Query: "62750" ; Times: 1
+	Query: "chaetodon austriacus gulf" ; Times: 1
+	Query: "parastromateus gulf" ; Times: 1
+	Query: "county:"McCormick" stateprovince:"South Carolina"" ; Times: 1
+	Query: "decapterus gulf" ; Times: 1
+	Query: "Opisthopterus gulf" ; Times: 2
+	Query: "100263" ; Times: 1
+	Query: "seriola gulf" ; Times: 1
+	Query: "95649" ; Times: 1
+	Query: "167529" ; Times: 1
+	Query: "apogonidae oman" ; Times: 2
+	Query: "73644" ; Times: 1
+	Query: "naucrates gulf" ; Times: 1
+	Query: "eumicrotremus orbis" ; Times: 2
+	Query: "mammoth cave" ; Times: 1
+	Query: "Boleophthalmus" ; Times: 1
+	Query: "county:"McCormick" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "chascanopsetta gulf" ; Times: 2
+	Query: "catalognumber:186681" ; Times: 1
+	Query: "gobiomorus maculatus" ; Times: 1
+	Query: "county:"Abbeville" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "catalognumber:164049" ; Times: 1
+	Query: "210612" ; Times: 2
+	Query: "carapidae gulf" ; Times: 2
+	Query: "Cyprinella caerulea Alabama" ; Times: 2
+	Query: "alepes gulf" ; Times: 1
+	Query: "95651" ; Times: 1
+	Query: "county:"Chester" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "pickle" ; Times: 1
+	Query: "26305" ; Times: 1
+	Query: "millward" ; Times: 1
+	Query: "trachurus indicus" ; Times: 2
+	Query: "enigmaticus" ; Times: 1
+	Query: "Megalaspis gulf" ; Times: 1
+	Query: "catalognumber:222645" ; Times: 1
+	Query: "seriolina gulf" ; Times: 1
+	Query: "carangoides talamparoides" ; Times: 1
+	Query: "alepes melanoptera" ; Times: 1
+	Query: "symphurus atramentatus" ; Times: 1
+	Query: "Cass Nebraska" ; Times: 1
+	Query: "Atractosteus florida" ; Times: 1
+	Query: "scartella" ; Times: 1
+	Query: "62346" ; Times: 1
+	Query: "8767 stateprovince:"north carolina"" ; Times: 1
+	Query: "bankhead national forest" ; Times: 1
+	Query: "catalognumber:100917" ; Times: 2
+	Query: "Regalecus mexico" ; Times: 6
+	Query: "county:"Fairfield" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "seriola dumerili gulf" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:cragini genus:Etheostoma" ; Times: 1
+	Query: "36223" ; Times: 1
+	Query: "cingulatum" ; Times: 1
+	Query: "citharichthys xanthostigma" ; Times: 1
+	Query: "catalognumber:60531" ; Times: 1
+	Query: "komodoensis" ; Times: 1
+	Query: "Regalecus florida" ; Times: 4
+	Query: "25578" ; Times: 1
+	Query: "stateprovince:"Kansas" specificepithet:placitus genus:Hybognathus" ; Times: 1
+	Query: "16002" ; Times: 1
+	Query: "catalognumber:28045" ; Times: 1
+	Query: "county:"Anderson" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "Etheostoma barbouri" ; Times: 2
+	Query: "month:12 year:1963 day:8" ; Times: 1
+	Query: "county:"mexico"" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "183420" ; Times: 1
+	Query: "Limestone Spring" ; Times: 1
+	Query: "catalognumber:96307 institutioncode:FLMNH" ; Times: 1
+	Query: "Cyprinella gibbsi" ; Times: 12
+	Query: "field 96440" ; Times: 2
+	Query: "county:"Lexington" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "62178" ; Times: 1
+	Query: "fowleria vaiulae" ; Times: 1
+	Query: "stigmatura" ; Times: 1
+	Query: "decapterus macarellus gulf" ; Times: 1
+	Query: "antennablennius" ; Times: 1
+	Query: "cyprinella institutioncode:flmnh" ; Times: 4
+	Query: "62176" ; Times: 1
+	Query: "tissue:1 distance(location,geopoint(32.84267363195431,-79.8046875))<100000" ; Times: 1
+	Query: "brotula gulf" ; Times: 1
+	Query: "specificepithet:fulgida genus:Meda" ; Times: 3
+	Query: "alectis gulf" ; Times: 1
+	Query: "pellona ditchela" ; Times: 2
+	Query: "county:"Richland" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "pereulixia" ; Times: 2
+	Query: "colon country:"mexico"" ; Times: 1
+	Query: "catalognumber:500" ; Times: 1
+	Query: "catalognumber:228886" ; Times: 1
+	Query: "catalognumber:2512" ; Times: 1
+	Query: "catalognumber:63232" ; Times: 1
+	Query: "menifee kentucky" ; Times: 1
+	Query: "paragobiodon red sea" ; Times: 1
+	Query: "laevigatus" ; Times: 1
+	Query: "exostoma labiatum" ; Times: 1
+	Query: "county:"Spartanburg" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "chepo r country:"panama"" ; Times: 1
+	Query: "Cyprinella Caerulea alabama" ; Times: 3
+	Query: "etrumeus gulf" ; Times: 1
+	Query: "gobiidae red sea" ; Times: 2
+	Query: "elagatis gulf" ; Times: 1
+	Query: "228897" ; Times: 1
+	Query: "chascanopsetta" ; Times: 1
+	Query: "flmnh tinca" ; Times: 2
+	Query: "UF 100335" ; Times: 2
+	Query: "potamorrhaphis petersi" ; Times: 1
+	Query: "UF 50672" ; Times: 2
+	Query: "Carcharhinus obscurus" ; Times: 1
+	Query: "heterodon stateprovince:"illinois" mappable:1" ; Times: 1
+	Query: "24633" ; Times: 1
+	Query: "UF 235881" ; Times: 2
+	Query: "Periophthalmus kuwait" ; Times: 1
+	Query: "county:"Union" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "5280" ; Times: 1
+	Query: "33625" ; Times: 1
+	Query: "atule gulf" ; Times: 1
+	Query: "Gnathanodon gulf" ; Times: 1
+	Query: "Ichthyology institutioncode:flmnh" ; Times: 1
+	Query: "pristis pectinata" ; Times: 3
+	Query: "pristis oman" ; Times: 3
+	Query: "45870" ; Times: 1
+	Query: "chepo country:"panama"" ; Times: 1
+	Query: "50293" ; Times: 1
+	Query: "Scoloplax" ; Times: 1
+	Query: "127639 type:specimen" ; Times: 2
+	Query: "91707" ; Times: 1
+	Query: "omobranchus punctatus" ; Times: 2
+	Query: "catalognumber:101565" ; Times: 1
+	Query: "tenualosa ilisha" ; Times: 1
+	Query: "seriola rivoliana gulf" ; Times: 1
+	Query: "holapogon" ; Times: 1
+	Query: "county:"Cherokee" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "selaroides gulf" ; Times: 1
+	Query: "county:"Oconee" stateprovince:"South Carolina" class:Actinopterygii" ; Times: 1
+	Query: "Percina oxyrhynchus" ; Times: 1
+	Query: "FLMNH 28910" ; Times: 1
+	Query: "ilisha gulf" ; Times: 1
+	Query: "Scartelaos tenuis" ; Times: 1
+	Query: "Cyprinella gibbsi Alabama" ; Times: 14
+	Query: "pristis pristis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 0 download events in this period)
+Total number of records downloaded: 0 (out of 0 records downloaded for all resources in this period)
+Total number of unique records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1292
+Total number of records retrieved from searches: 16473
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1364
+Total number of records retrieved from searches: 17326
+Number of download events that retrieved data from the resource: 0
+Total number of records downloaded: 0
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
