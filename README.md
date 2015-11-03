@@ -1,4 +1,4 @@
 ichthyology
 ===========
 
-Issue tracking for FLMNH Ichthyology data in the VertNet portal (portal.vertnet.org).
+Issue tracking for UF Ichthyology data in the VertNet portal (portal.vertnet.org).
