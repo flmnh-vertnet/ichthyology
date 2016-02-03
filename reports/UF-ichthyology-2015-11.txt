@@ -1,0 +1,176 @@
+Report for Institution Code UF, Resource ichthyology
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 110
+Number of records retrieved in searches: 538
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Mexico ; Times: 8
+	Country: Guatemala ; Times: 2
+	Country: United States ; Times: 62
+	Country: Sweden ; Times: 5
+	Country: Germany ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 22
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 2
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-30 ; Times: 3
+	Date: 2015-11-25 ; Times: 6
+	Date: 2015-11-11 ; Times: 3
+	Date: 2015-11-13 ; Times: 1
+	Date: 2015-11-15 ; Times: 2
+	Date: 2015-11-17 ; Times: 14
+	Date: 2015-11-16 ; Times: 2
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-06 ; Times: 23
+	Date: 2015-11-04 ; Times: 3
+	Date: 2015-11-05 ; Times: 3
+	Date: 2015-11-08 ; Times: 2
+	Date: 2015-11-09 ; Times: 10
+	Date: 2015-11-28 ; Times: 4
+	Date: 2015-11-29 ; Times: 3
+	Date: 2015-11-02 ; Times: 3
+	Date: 2015-11-03 ; Times: 2
+	Date: 2015-11-26 ; Times: 5
+	Date: 2015-11-27 ; Times: 4
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-21 ; Times: 1
+	Date: 2015-11-22 ; Times: 4
+	Date: 2015-11-23 ; Times: 1
+	Date: 2015-11-24 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "74990" ; Times: 1
+	Query: "type:specimen specificepithet:oblongus genus:Erimyzon stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "marsh arizona" ; Times: 1
+	Query: "107871" ; Times: 1
+	Query: "23206" ; Times: 1
+	Query: "22626" ; Times: 1
+	Query: "176578" ; Times: 2
+	Query: "30141" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "Tetrapturus angustirostris" ; Times: 2
+	Query: "catalognumber:24638" ; Times: 1
+	Query: "176579" ; Times: 1
+	Query: "66553" ; Times: 1
+	Query: "Umbra krameri" ; Times: 1
+	Query: "specificepithet:grandis genus:Fundulus tissue:1" ; Times: 1
+	Query: "1024 county:&#34;Val Verde&#34;" ; Times: 1
+	Query: "locality:Pine Hills stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "94563" ; Times: 1
+	Query: "229974" ; Times: 1
+	Query: "176575" ; Times: 1
+	Query: "MA 102" ; Times: 1
+	Query: "Lepidosiren" ; Times: 1
+	Query: "228115" ; Times: 2
+	Query: "28850" ; Times: 1
+	Query: "23207" ; Times: 1
+	Query: "176592" ; Times: 1
+	Query: "Pantanal" ; Times: 1
+	Query: "distance(location,geopoint(40.68792771802359,-73.60359191894531))&lt;3268" ; Times: 1
+	Query: "19118" ; Times: 1
+	Query: "65941" ; Times: 1
+	Query: "catalognumber:24750 institutioncode:UF" ; Times: 1
+	Query: "23209" ; Times: 1
+	Query: "176582" ; Times: 1
+	Query: "pseudorhombus malayanus" ; Times: 4
+	Query: "28884" ; Times: 1
+	Query: "FLMNH 123825" ; Times: 1
+	Query: "33590" ; Times: 1
+	Query: "type:specimen (tetrazona)" ; Times: 1
+	Query: "fundulus grandis" ; Times: 1
+	Query: "11531" ; Times: 1
+	Query: "8303 fasciatus" ; Times: 1
+	Query: "33465" ; Times: 2
+	Query: "anacanthobatis folirostris" ; Times: 1
+	Query: "Lemur" ; Times: 1
+	Query: "80724" ; Times: 1
+	Query: "33462" ; Times: 2
+	Query: "pike county missouri" ; Times: 2
+	Query: "187218" ; Times: 1
+	Query: "pseudosynanceia" ; Times: 1
+	Query: "28860" ; Times: 1
+	Query: "specificepithet:crossotus genus:Etropus continent:North America" ; Times: 1
+	Query: "28862" ; Times: 1
+	Query: "Edmonson" ; Times: 1
+	Query: "Tetrapturus" ; Times: 1
+	Query: "80723" ; Times: 1
+	Query: "etheostoma stigmaeum grinders creek" ; Times: 1
+	Query: "28868" ; Times: 1
+	Query: "scatophagus gulf" ; Times: 1
+	Query: "26280" ; Times: 1
+	Query: "M-144170" ; Times: 1
+	Query: "Nocomis biguttatus Wyoming" ; Times: 1
+	Query: "falciformis" ; Times: 2
+	Query: "sillago attenuata" ; Times: 1
+	Query: "176891" ; Times: 2
+	Query: "231094" ; Times: 1
+	Query: "aluterus monoceros" ; Times: 1
+	Query: "cosmocampus gulf" ; Times: 1
+	Query: "176587" ; Times: 1
+	Query: "176586" ; Times: 1
+	Query: "fish locality:rock creek stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "umbrina canariensis" ; Times: 2
+	Query: "141749" ; Times: 1
+	Query: "176585" ; Times: 1
+	Query: "87620" ; Times: 1
+	Query: "alopias" ; Times: 2
+	Query: "33588" ; Times: 1
+	Query: "type:specimen (11531)" ; Times: 1
+	Query: "witch" ; Times: 7
+	Query: "locality:San Benedicto Island" ; Times: 3
+	Query: "leptophilypnus" ; Times: 1
+	Query: "etheostoma stigmaeum arkansas" ; Times: 1
+	Query: "sillago arabica" ; Times: 1
+	Query: "Guatemala Morales" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 751 download events in this period)
+Total number of records downloaded: 1377
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-19 ; Times: 1
+	Date: 2015-11-30 ; Times: 1
+	Date: 2015-11-11 ; Times: 3
+	Date: 2015-11-25 ; Times: 1
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-01 ; Times: 1
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-17 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:jacksonii" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "NAYARIT" ; Times: 1
+	Query: "Rugosa rugosa" ; Times: 1
+	Query: "etheostoma spectabile" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; year &gt;= 1990 year &lt;= 2015" ; Times: 1
+	Query: "Mammoth Cave" ; Times: 1
+	Query: "distance(location,geopoint(18.224133787422407,-66.59088134765625))&lt;75606" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "Guatemala Morales" ; Times: 1
+	Query: "type:specimen (tetrazona)" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
