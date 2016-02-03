@@ -1,0 +1,144 @@
+Report for Institution Code UF, Resource ichthyology
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 104
+Number of records retrieved in searches: 584
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Portugal ; Times: 5
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 69
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 25
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 2
+	Date: 2015-12-08 ; Times: 3
+	Date: 2015-12-03 ; Times: 2
+	Date: 2015-12-02 ; Times: 4
+	Date: 2015-12-01 ; Times: 9
+	Date: 2015-12-07 ; Times: 8
+	Date: 2015-12-05 ; Times: 5
+	Date: 2015-12-04 ; Times: 4
+	Date: 2015-12-23 ; Times: 3
+	Date: 2015-12-22 ; Times: 5
+	Date: 2015-12-24 ; Times: 3
+	Date: 2015-12-27 ; Times: 4
+	Date: 2015-12-26 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 2
+	Date: 2015-12-31 ; Times: 2
+	Date: 2015-12-14 ; Times: 9
+	Date: 2015-12-15 ; Times: 9
+	Date: 2015-12-17 ; Times: 10
+	Date: 2015-12-10 ; Times: 2
+	Date: 2015-12-11 ; Times: 8
+	Date: 2015-12-12 ; Times: 2
+	Date: 2015-12-18 ; Times: 5
+	Date: 2015-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "pristis pectinata" ; Times: 2
+	Query: "recordedby:tuna" ; Times: 1
+	Query: "erotelis smaragdus" ; Times: 1
+	Query: "Etheostoma denoncourti" ; Times: 1
+	Query: "126225" ; Times: 1
+	Query: "Epinephelus striatus" ; Times: 2
+	Query: "genus:Menidia tissue:1" ; Times: 1
+	Query: "hemiramphus saltator" ; Times: 1
+	Query: "94544" ; Times: 1
+	Query: "Ammocrypta clara" ; Times: 4
+	Query: "Typhlichthys kentucky" ; Times: 5
+	Query: "113810" ; Times: 1
+	Query: "uf 272" ; Times: 1
+	Query: "Colossoma macropomum" ; Times: 1
+	Query: "catalognumber:161288" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "diplobatis" ; Times: 2
+	Query: "12522" ; Times: 2
+	Query: "Cyphocharax spilurus" ; Times: 2
+	Query: "catalognumber:73504" ; Times: 1
+	Query: "Percina rex (Virginia)" ; Times: 2
+	Query: "leptophilypnus" ; Times: 1
+	Query: "Etheostoma percnurum (Virginia)" ; Times: 1
+	Query: "county:&#34;Chicot&#34; stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "torpedo" ; Times: 2
+	Query: "typhlichthys kentucky" ; Times: 1
+	Query: "Mycteroperca venenosa" ; Times: 1
+	Query: "Erimystax cahni" ; Times: 1
+	Query: "catalognumber:51891" ; Times: 1
+	Query: "83100" ; Times: 1
+	Query: "typhlichthys edmonson" ; Times: 1
+	Query: "107848" ; Times: 1
+	Query: "Anostomus ternetzi" ; Times: 1
+	Query: "Mormyrus" ; Times: 1
+	Query: "catalognumber:46477" ; Times: 1
+	Query: "witch" ; Times: 16
+	Query: "Curimatella alburna" ; Times: 1
+	Query: "UF 632" ; Times: 1
+	Query: "unicorn" ; Times: 12
+	Query: "catalognumber:1017" ; Times: 3
+	Query: "106669" ; Times: 1
+	Query: "louisiana shreveport" ; Times: 1
+	Query: "percina rex" ; Times: 1
+	Query: "Notropis atherinoides (Virginia)" ; Times: 1
+	Query: "73952" ; Times: 1
+	Query: "erotelis armiger" ; Times: 1
+	Query: "catalognumber: 111020" ; Times: 1
+	Query: "uf 1001" ; Times: 1
+	Query: "94519" ; Times: 1
+	Query: "catalognumber:94774" ; Times: 2
+	Query: "Percina rex" ; Times: 1
+	Query: "126226" ; Times: 1
+	Query: "genus:Menidia year &gt;= 2000 year &lt;= 2015 tissue:1" ; Times: 1
+	Query: "Latimeria" ; Times: 1
+	Query: "110949" ; Times: 1
+	Query: "microphilypnus" ; Times: 1
+	Query: "87581" ; Times: 1
+	Query: "Williams 1955" ; Times: 1
+	Query: "228115" ; Times: 1
+	Query: "uf 587" ; Times: 1
+	Query: "seguin texas" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 889 download events in this period)
+Total number of records downloaded: 12578
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Brazil ; Times: 1
+	Country: Uruguay ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-14 ; Times: 4
+	Date: 2015-12-20 ; Times: 1
+	Date: 2015-12-17 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-13 ; Times: 1
+	Date: 2015-12-29 ; Times: 1
+	Date: 2015-12-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "macropus" ; Times: 1
+	Query: "castor" ; Times: 1
+	Query: "Cuba" ; Times: 1
+	Query: "distance(location,geopoint(32.32118167963493,-114.78515625))&lt;30358" ; Times: 1
+	Query: "Lepomis" ; Times: 1
+	Query: "quintana roo" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 1
+	Query: "pterois volitans" ; Times: 4
+	Query: "rio grande do sul" ; Times: 1
+
+
+End of report.
