@@ -1,0 +1,289 @@
+Report for Institution Code UF, Resource ichthyology
+Usage stats for September 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 235
+Number of records retrieved in searches: 1179
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 4
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 2
+	Country: Mexico ; Times: 14
+	Country: Costa Rica ; Times: 6
+	Country: Papua New Guinea ; Times: 1
+	Country: United States ; Times: 183
+	Country: Malaysia ; Times: 1
+	Country: French Guiana ; Times: 1
+	Country: Chile ; Times: 3
+	Country: Japan ; Times: 4
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-22 ; Times: 3
+	Date: 2015-09-09 ; Times: 6
+	Date: 2015-09-11 ; Times: 3
+	Date: 2015-09-14 ; Times: 6
+	Date: 2015-09-15 ; Times: 4
+	Date: 2015-09-16 ; Times: 3
+	Date: 2015-09-17 ; Times: 5
+	Date: 2015-09-18 ; Times: 2
+	Date: 2015-09-03 ; Times: 4
+	Date: 2015-09-30 ; Times: 73
+	Date: 2015-09-07 ; Times: 8
+	Date: 2015-09-06 ; Times: 7
+	Date: 2015-09-05 ; Times: 11
+	Date: 2015-09-04 ; Times: 9
+	Date: 2015-09-29 ; Times: 3
+	Date: 2015-09-02 ; Times: 32
+	Date: 2015-09-01 ; Times: 8
+	Date: 2015-09-25 ; Times: 5
+	Date: 2015-09-24 ; Times: 9
+	Date: 2015-09-27 ; Times: 8
+	Date: 2015-09-26 ; Times: 19
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-20 ; Times: 1
+	Date: 2015-09-23 ; Times: 4
+	Date: 2015-09-08 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Crystallaria asprella" ; Times: 1
+	Query: "Porotergus" ; Times: 1
+	Query: "Aphos" ; Times: 3
+	Query: "catalognumber:12073" ; Times: 1
+	Query: "catalognumber:48099" ; Times: 1
+	Query: "85908" ; Times: 1
+	Query: "distance(location,geopoint(21.1802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "UF 11313" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-106.149505705))&lt;15000" ; Times: 1
+	Query: "UF 117789" ; Times: 1
+	Query: "distance(location,geopoint(24.0802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "87603" ; Times: 1
+	Query: "catalognumber:84697" ; Times: 1
+	Query: "catalognumber:94452" ; Times: 1
+	Query: "parachromis managuensis" ; Times: 6
+	Query: "county:&#34;hays&#34; stateprovince:&#34;texas&#34; country:&#34;usa&#34; year &lt;= 2014" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "Hexanchus" ; Times: 1
+	Query: "distance(location,geopoint(23.3802369569,-109.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.8802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.2802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "notorynchus cepedianus" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.949505705))&lt;10000" ; Times: 1
+	Query: "149922" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-106.349505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(21.7802369569,-105.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.9802369569,-105.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "panaque" ; Times: 3
+	Query: "catalognumber:6141" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-110.149505705))&lt;15000" ; Times: 1
+	Query: "17255" ; Times: 1
+	Query: "27176" ; Times: 1
+	Query: "Spinachia" ; Times: 1
+	Query: "distance(location,geopoint(25.6802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "Gasterosteus wheatlandi" ; Times: 23
+	Query: "Urolophus halleri" ; Times: 1
+	Query: "distance(location,geopoint(23.0802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.7802369569,-111.649505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(22.7802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.1802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "Nocomis biguttatus stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "distance(location,geopoint(23.6802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(20.5802369569,-105.249505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(21.9802369569,-105.749505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:105274" ; Times: 1
+	Query: "class:Actinopterygii kino" ; Times: 1
+	Query: "catalognumber:128553" ; Times: 1
+	Query: "distance(location,geopoint(27.9802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "(manabao)" ; Times: 1
+	Query: "stateprovince:&#34;Ontario&#34; specificepithet:biguttatus genus:nocomis" ; Times: 1
+	Query: "distance(location,geopoint(53.225768435790194,-170.914306640625))&lt;100000" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "distance(location,geopoint(20.5802369569,-105.349505705))&lt;10000" ; Times: 1
+	Query: "catalognumber:5861" ; Times: 1
+	Query: "213611" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-111.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "Leslie Canyon" ; Times: 1
+	Query: "distance(location,geopoint(27.1802369569,-112.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "Carcharodon carcharias" ; Times: 1
+	Query: "syngnathoides biaculeatus" ; Times: 1
+	Query: "specificepithet:stigmaeum genus:Etheostoma tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "Narcine entemedor" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "Scyliorhinus" ; Times: 1
+	Query: "distance(location,geopoint(22.8802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(22.7802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.7802369569,-109.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-111.049505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(23.2802369569,-109.349505705))&lt;10000" ; Times: 1
+	Query: "UF 42318" ; Times: 1
+	Query: "distance(location,geopoint(28.6802369569,-112.849505705))&lt;10000" ; Times: 1
+	Query: "Egretta tissue:1" ; Times: 1
+	Query: "137626" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.749505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(21.5802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.849505705))&lt;10000" ; Times: 1
+	Query: "58779" ; Times: 1
+	Query: "distance(location,geopoint(25.5802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "bryx" ; Times: 3
+	Query: "distance(location,geopoint(22.8802369569,-109.749505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.0802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "suwannee cooter" ; Times: 1
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "genus:Etheostoma tissue:1" ; Times: 1
+	Query: "cosmocampus" ; Times: 1
+	Query: "distance(location,geopoint(27.7802369569,-110.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.0802369569,-111.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.8802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.7802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "95750" ; Times: 2
+	Query: "distance(location,geopoint(25.5802369569,-111.049505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.5802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.549505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.649505705))&lt;15000" ; Times: 1
+	Query: "specificepithet:brevirostrum genus:acipenser" ; Times: 3
+	Query: "distance(location,geopoint(29.5802369569,-113.449505705))&lt;10000" ; Times: 1
+	Query: "NMW" ; Times: 2
+	Query: "distance(location,geopoint(21.7802369569,-106.549505705))&lt;15000" ; Times: 1
+	Query: "C. asprella" ; Times: 1
+	Query: "thibault" ; Times: 1
+	Query: "distance(location,geopoint(27.8802369569,-110.749505705))&lt;15000" ; Times: 1
+	Query: "Leslie Canyon Arizona" ; Times: 1
+	Query: "90670" ; Times: 1
+	Query: "UF 7617" ; Times: 2
+	Query: "baxteri" ; Times: 1
+	Query: "catalognumber:154681" ; Times: 1
+	Query: "distance(location,geopoint(25.9802369569,-111.249505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(24.3802369569,-109.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.449505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:30513" ; Times: 2
+	Query: "type:specimen catalognumber:19612" ; Times: 1
+	Query: "distance(location,geopoint(26.6802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.9802369569,-111.849505705))&lt;15000" ; Times: 1
+	Query: "UF 106618" ; Times: 1
+	Query: "Hybopsis lineapunctata Alabama" ; Times: 1
+	Query: "distance(location,geopoint(24.0802369569,-109.949505705))&lt;10000" ; Times: 1
+	Query: "UF 106617" ; Times: 1
+	Query: "specificepithet:stigmaeum genus:Etheostoma mappable:1 tissue:1" ; Times: 1
+	Query: "Aulorhynchus" ; Times: 1
+	Query: "(leslie canyon)" ; Times: 1
+	Query: "anabas" ; Times: 3
+	Query: "distance(location,geopoint(21.7802369569,-105.849505705))&lt;10000" ; Times: 1
+	Query: "distance(location,geopoint(23.6802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-109.449505705))&lt;15000" ; Times: 1
+	Query: "geminatus" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.749505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.1802369569,-109.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(26.5802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.3802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "R.30826" ; Times: 1
+	Query: "catalognumber:62042" ; Times: 1
+	Query: "distance(location,geopoint(21.4802369569,-106.249505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(23.4802369569,-109.249505705))&lt;15000" ; Times: 1
+	Query: "Hall Nebraska" ; Times: 2
+	Query: "distance(location,geopoint(23.2802369569,-109.349505705))&lt;15000" ; Times: 1
+	Query: "21878" ; Times: 2
+	Query: "Percina maculata" ; Times: 1
+	Query: "distance(location,geopoint(31.2802369569,-113.749505705))&lt;10000" ; Times: 1
+	Query: "regina tissue:1" ; Times: 4
+	Query: "unicorn" ; Times: 5
+	Query: "distance(location,geopoint(22.8802369569,-109.649505705))&lt;15000" ; Times: 1
+	Query: "catalognumber:117349" ; Times: 1
+	Query: "flmnh 47539" ; Times: 2
+	Query: "distance(location,geopoint(25.6802369569,-111.149505705))&lt;15000" ; Times: 1
+	Query: "64800" ; Times: 1
+	Query: "catalognumber:161963" ; Times: 1
+	Query: "distance(location,geopoint(21.6802369569,-106.449505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(28.7802369569,-111.949505705))&lt;10000" ; Times: 1
+	Query: "hexanchus griseus" ; Times: 11
+	Query: "distance(location,geopoint(25.3802369569,-110.949505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(27.9802369569,-111.349505705))&lt;15000" ; Times: 1
+	Query: "distance(location,geopoint(21.2802369569,-106.349505705))&lt;15000" ; Times: 1
+	Query: "notorynchus" ; Times: 2
+	Query: "UF 106616" ; Times: 1
+	Query: "distance(location,geopoint(24.2802369569,-109.849505705))&lt;15000" ; Times: 1
+	Query: "archaeology" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1045 download events in this period)
+Total number of records downloaded: 21948
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 9
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 6
+	Country: Colombia ; Times: 4
+	Country: New Zealand ; Times: 1
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-09-10 ; Times: 4
+	Date: 2015-09-16 ; Times: 1
+	Date: 2015-09-07 ; Times: 2
+	Date: 2015-09-05 ; Times: 2
+	Date: 2015-09-04 ; Times: 1
+	Date: 2015-09-30 ; Times: 1
+	Date: 2015-09-01 ; Times: 3
+	Date: 2015-09-24 ; Times: 1
+	Date: 2015-09-08 ; Times: 1
+	Date: 2015-09-22 ; Times: 2
+	Date: 2015-09-21 ; Times: 1
+	Date: 2015-09-09 ; Times: 1
+	Date: 2015-09-23 ; Times: 6
+	Date: 2015-09-02 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "country:&#34;Madagascar&#34;" ; Times: 1
+	Query: "Morehead" ; Times: 1
+	Query: "genus:aequidens" ; Times: 1
+	Query: "Etheostoma tallapoosae" ; Times: 1
+	Query: "Bison bison" ; Times: 2
+	Query: "distance(location,geopoint(-7.986704103140561,142.18505859375))&lt;100000" ; Times: 1
+	Query: "aves venezuela" ; Times: 1
+	Query: "family:cichlidae" ; Times: 1
+	Query: "sinaloa" ; Times: 1
+	Query: "country:&#34;Colombia&#34;" ; Times: 2
+	Query: "parachromis managuensis" ; Times: 1
+	Query: "peru" ; Times: 1
+	Query: "Rhinobatos productus" ; Times: 1
+	Query: "New Guinea" ; Times: 2
+	Query: "tigrinum" ; Times: 1
+	Query: "genus:crenicichla" ; Times: 1
+	Query: "Papua" ; Times: 1
+	Query: "penguin" ; Times: 1
+	Query: "genus:apistogramma" ; Times: 2
+	Query: "Irian" ; Times: 1
+	Query: "genus:cichlasoma" ; Times: 1
+	Query: "Jaya" ; Times: 1
+	Query: "genus:Percina" ; Times: 1
+	Query: "caiman" ; Times: 2
+	Query: "Narcine entemedor" ; Times: 1
+	Query: "PNG" ; Times: 2
+	Query: "Vulpes vulpes" ; Times: 2
+
+
+End of report.
