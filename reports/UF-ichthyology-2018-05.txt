@@ -1,0 +1,293 @@
+Report for Institution Code UF, Resource ichthyology
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 306
+Number of records retrieved in searches: 2831
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 6
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 7
+	Country: Unknown ; Times: 3
+	Country: Finland ; Times: 1
+	Country: United States ; Times: 269
+	Country: Morocco ; Times: 1
+	Country: China ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-29 ; Times: 10
+	Date: 2018-05-20 ; Times: 4
+	Date: 2018-05-21 ; Times: 14
+	Date: 2018-05-22 ; Times: 3
+	Date: 2018-05-23 ; Times: 7
+	Date: 2018-05-24 ; Times: 23
+	Date: 2018-05-25 ; Times: 12
+	Date: 2018-05-26 ; Times: 3
+	Date: 2018-05-27 ; Times: 2
+	Date: 2018-05-07 ; Times: 38
+	Date: 2018-05-04 ; Times: 32
+	Date: 2018-05-05 ; Times: 4
+	Date: 2018-05-02 ; Times: 9
+	Date: 2018-05-03 ; Times: 5
+	Date: 2018-05-01 ; Times: 5
+	Date: 2018-05-08 ; Times: 12
+	Date: 2018-05-09 ; Times: 7
+	Date: 2018-05-31 ; Times: 5
+	Date: 2018-05-30 ; Times: 3
+	Date: 2018-05-15 ; Times: 13
+	Date: 2018-05-14 ; Times: 9
+	Date: 2018-05-17 ; Times: 4
+	Date: 2018-05-16 ; Times: 3
+	Date: 2018-05-11 ; Times: 12
+	Date: 2018-05-10 ; Times: 16
+	Date: 2018-05-13 ; Times: 2
+	Date: 2018-05-12 ; Times: 6
+	Date: 2018-05-19 ; Times: 41
+	Date: 2018-05-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sailfish" ; Times: 1
+	Query: "distance(location,geopoint(42.6495013578174,-85.3872811613869))&lt;14725" ; Times: 2
+	Query: "CM 9036" ; Times: 1
+	Query: "133988" ; Times: 1
+	Query: "specificepithet:salvini family:Cichlidae institutioncode:UF" ; Times: 1
+	Query: "distance(location,geopoint(45.9394632175,-94.9810641095))&lt;22927" ; Times: 2
+	Query: "149388" ; Times: 1
+	Query: "specificepithet:panthera " ; Times: 2
+	Query: "specificepithet:temporalis family:Cichlidae" ; Times: 1
+	Query: "Vandellia cirrhosa" ; Times: 3
+	Query: "71073" ; Times: 1
+	Query: "specificepithet:haitiensis family:Cichlidae" ; Times: 1
+	Query: "Striped bass" ; Times: 1
+	Query: "genus:Polylepion" ; Times: 1
+	Query: "specificepithet:spurius genus:Heros" ; Times: 1
+	Query: "uf 65783" ; Times: 1
+	Query: "sand boa" ; Times: 1
+	Query: "distance(location,geopoint(44.4012615325,-95.851061068))&lt;29711" ; Times: 2
+	Query: "genus:Laetacara" ; Times: 2
+	Query: "distance(location,geopoint(42.2699864184285,-90.3736484933877))&lt;29940" ; Times: 2
+	Query: "genus:Hoplarchus" ; Times: 1
+	Query: "Etheostoma douglasi" ; Times: 2
+	Query: "typhlichthys" ; Times: 2
+	Query: "genus:Pterophyllum" ; Times: 1
+	Query: "family:Percidae county:&#34;Pittsburg&#34; stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "distance(location,geopoint(46.9340888008072,-95.7192915126383))&lt;56921" ; Times: 1
+	Query: "109699" ; Times: 1
+	Query: "distance(location,geopoint(40.4417059145379,-90.00673221017))&lt;13766" ; Times: 1
+	Query: "specificepithet:orinocense family:Cichlidae" ; Times: 2
+	Query: "distance(location,geopoint(43.5032331415001,-95.747594044))&lt;52150" ; Times: 2
+	Query: "31227" ; Times: 2
+	Query: "distance(location,geopoint(41.0082879640365,-89.3925110450531))&lt;13315" ; Times: 1
+	Query: "genus:Herotilapia" ; Times: 1
+	Query: "distance(location,geopoint(44.2351364775,-91.8368762249999))&lt;29242" ; Times: 2
+	Query: "distance(location,geopoint(38.005845063,-89.9754001465))&lt;46441" ; Times: 2
+	Query: "xiphias" ; Times: 1
+	Query: "echinorhinus" ; Times: 1
+	Query: "genus:Amphilophus" ; Times: 3
+	Query: "18002" ; Times: 1
+	Query: "Robinsia" ; Times: 2
+	Query: "catostomus santaanae" ; Times: 1
+	Query: "distance(location,geopoint(44.371166546,-93.6820334855))&lt;19398" ; Times: 2
+	Query: "37184" ; Times: 1
+	Query: "specificepithet:splendida genus:Petenia" ; Times: 1
+	Query: "specificepithet:mirificus family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(38.65875276895,-91.2511227055))&lt;55931" ; Times: 4
+	Query: "specificepithet:psittacus family:Cichlidae" ; Times: 1
+	Query: "catalognumber:223155" ; Times: 1
+	Query: "stateprovince:&#34;nebraska&#34; institutioncode:UF" ; Times: 3
+	Query: "distance(location,geopoint(37.6772884172284,-89.0633709977937))&lt;27695" ; Times: 2
+	Query: "Morone americana " ; Times: 1
+	Query: "distance(location,geopoint(44.89221551525,-95.84415616))&lt;61793" ; Times: 2
+	Query: "distance(location,geopoint(37.2278846305001,-89.1481192859999))&lt;20185" ; Times: 1
+	Query: "genus:Symphysodon" ; Times: 1
+	Query: "distance(location,geopoint(40.3652015999221,-89.8405210469735))&lt;3477" ; Times: 1
+	Query: "genus:Nandopsis" ; Times: 1
+	Query: "distance(location,geopoint(39.2341380512235,-93.5623870643903))&lt;65495" ; Times: 3
+	Query: "125990" ; Times: 1
+	Query: "distance(location,geopoint(47.7460065965,-96.0598279575))&lt;46258" ; Times: 2
+	Query: "Microdesmus longipinnis" ; Times: 1
+	Query: "distance(location,geopoint(44.6454142935001,-84.5505796995))&lt;11374" ; Times: 2
+	Query: "distance(location,geopoint(40.32824132246,-90.012530480135))&lt;15087" ; Times: 1
+	Query: "genus:Andinoacara" ; Times: 1
+	Query: "specificepithet:orinocense genus:Cichlasoma" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "distance(location,geopoint(47.5120911515,-95.383909072))&lt;30045" ; Times: 2
+	Query: "specificepithet:hophrys family:Cichlidae" ; Times: 1
+	Query: "95215" ; Times: 1
+	Query: "distance(location,geopoint(43.6229870615001,-93.336362792))&lt;26599" ; Times: 2
+	Query: "kweichowensis" ; Times: 1
+	Query: "gomezi" ; Times: 3
+	Query: "distance(location,geopoint(42.7557685876957,-90.935819783))&lt;18209" ; Times: 2
+	Query: "specificepithet:osgoodi " ; Times: 2
+	Query: "locality:McKay" ; Times: 1
+	Query: "distance(location,geopoint(48.3463811540162,-95.9340218018966))&lt;27697" ; Times: 2
+	Query: "specificepithet:tuyrense family:Cichlidae" ; Times: 1
+	Query: "Pseudochromidae year &gt;= 1990 year &lt;= 2018 hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(43.055277491,-91.1196036430418))&lt;22343" ; Times: 2
+	Query: "specificepithet:sapayensis genus:Aequidens family:Cichlidae" ; Times: 2
+	Query: "distance(location,geopoint(44.0488918737493,-91.5628435737312))&lt;20113" ; Times: 1
+	Query: "genus:Cribroheros" ; Times: 2
+	Query: "labeo mesops" ; Times: 1
+	Query: "distance(location,geopoint(44.3604113495001,-93.3289771619999))&lt;20441" ; Times: 2
+	Query: "vntype:specimen specificepithet:guttatus genus:epinephelus hastissue:1" ; Times: 1
+	Query: "distance(location,geopoint(40.3761206225001,-89.9958485345))&lt;5309" ; Times: 2
+	Query: "40447" ; Times: 2
+	Query: "distance(location,geopoint(45.139607633725,-94.0595528125))&lt;16675" ; Times: 2
+	Query: "Labeo chrysophekadion" ; Times: 2
+	Query: "distance(location,geopoint(39.152078820787,-93.5543637292319))&lt;66104" ; Times: 3
+	Query: "genus:Hypselecara" ; Times: 1
+	Query: "distance(location,geopoint(39.881129919,-90.5451142735))&lt;6477" ; Times: 2
+	Query: "specificepithet:carpintis genus:Herichthys" ; Times: 1
+	Query: "genus:Thorichthys" ; Times: 1
+	Query: "distance(location,geopoint(38.91491613655,-92.5239536137407))&lt;5501" ; Times: 4
+	Query: "genus:Vieja" ; Times: 1
+	Query: "distance(location,geopoint(38.905901129478,-92.5678721072175))&lt;18581" ; Times: 3
+	Query: "distance(location,geopoint(40.3259350065001,-90.098832204))&lt;4130" ; Times: 2
+	Query: "distance(location,geopoint(45.3941139210832,-96.4433876691735))&lt;48705" ; Times: 1
+	Query: "AL 3054" ; Times: 1
+	Query: "specificepithet:geayi family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(48.485831828,-95.0056130685))&lt;51608" ; Times: 1
+	Query: "distance(location,geopoint(43.7498440531908,-96.162771894612))&lt;12275" ; Times: 2
+	Query: "distance(location,geopoint(38.577664207733,-91.2675336119972))&lt;64555" ; Times: 2
+	Query: "specificepithet:octofasciata genus:Rocio institutioncode:UF" ; Times: 1
+	Query: "specificepithet:beani family:Cichlidae" ; Times: 1
+	Query: "specificepithet:meeki family:Cichlidae institutioncode:UF" ; Times: 1
+	Query: "distance(location,geopoint(44.0001288545,-95.653079058))&lt;21078" ; Times: 2
+	Query: "distance(location,geopoint(38.9483272395968,-85.420946113691))&lt;27195" ; Times: 2
+	Query: "distance(location,geopoint(37.677289235,-89.0633763645))&lt;13548" ; Times: 2
+	Query: "&#34;labeo parvus&#34;" ; Times: 1
+	Query: "Thayeria boehlkei" ; Times: 1
+	Query: "genus:Rocio" ; Times: 1
+	Query: "distance(location,geopoint(46.988734162,-95.625347563))&lt;12690" ; Times: 2
+	Query: "distance(location,geopoint(45.5426280460001,-94.638845168))&lt;45992" ; Times: 2
+	Query: "UF 65801" ; Times: 1
+	Query: "107218" ; Times: 1
+	Query: "Dysommina" ; Times: 1
+	Query: "distance(location,geopoint(38.96124829875,-92.5995447390948))&lt;5916" ; Times: 4
+	Query: "distance(location,geopoint(41.008117971147,-87.5390087322894))&lt;14523" ; Times: 1
+	Query: "catalognumber:66465" ; Times: 1
+	Query: "distance(location,geopoint(45.4726993784101,-93.738240342895))&lt;25496" ; Times: 1
+	Query: "genus:Krobia" ; Times: 1
+	Query: "catalognumber:52212 institutioncode:UF" ; Times: 2
+	Query: "distance(location,geopoint(39.23512034605,-93.5624226525))&lt;55443" ; Times: 4
+	Query: "distance(location,geopoint(37.0321005105,-94.028136968))&lt;35289" ; Times: 1
+	Query: "catalognumber:121173" ; Times: 1
+	Query: "western sahara" ; Times: 1
+	Query: "genus:Nannacara" ; Times: 1
+	Query: "Sardina pilchardus" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "catalognumber:238981" ; Times: 1
+	Query: "distance(location,geopoint(38.823841899042,-90.7090116510005))&lt;58590" ; Times: 2
+	Query: "specificepithet:ramsdeni family:Cichlidae" ; Times: 1
+	Query: "27634" ; Times: 1
+	Query: "specificepithet:carpintis family:Cichlidae" ; Times: 1
+	Query: "brama dussumieri" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:151832" ; Times: 1
+	Query: "catalognumber:128267 institutioncode:UF" ; Times: 1
+	Query: "specificepithet:efasciatus family:Cichlidae" ; Times: 1
+	Query: "37232" ; Times: 1
+	Query: "distance(location,geopoint(44.707048188,-95.953677021))&lt;41601" ; Times: 2
+	Query: "44963" ; Times: 1
+	Query: "105031" ; Times: 1
+	Query: "uf 43205" ; Times: 2
+	Query: "distance(location,geopoint(41.115162657804,-89.3887602040832))&lt;14794" ; Times: 1
+	Query: "genus:Trichromis" ; Times: 1
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "238226" ; Times: 1
+	Query: "specificepithet:severus family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(38.9879603599145,-92.7108775948784))&lt;29395" ; Times: 3
+	Query: "specificepithet:mirificus genus:Mesonauta family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(40.3259339471276,-90.0988653032703))&lt;18259" ; Times: 1
+	Query: "specificepithet:rostratus family:Cichlidae institutioncode:UF" ; Times: 1
+	Query: "genus:Petenia" ; Times: 1
+	Query: "distance(location,geopoint(38.3577784560001,-87.4390652764999))&lt;30214" ; Times: 2
+	Query: "distance(location,geopoint(38.8970493997129,-90.1791755405046))&lt;12230" ; Times: 2
+	Query: "specificepithet:guttatus genus:epinephelus" ; Times: 2
+	Query: "genus:Caquetaia" ; Times: 1
+	Query: "specificepithet:zebra family:Cichlidae" ; Times: 1
+	Query: "specificepithet:itanyi family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(43.9302007876938,-93.1386640465672))&lt;22744" ; Times: 1
+	Query: "catalognumber:9219" ; Times: 1
+	Query: "genus:Acaronia" ; Times: 1
+	Query: "distance(location,geopoint(39.31619728166,-93.5515952485077))&lt;64020" ; Times: 3
+	Query: "specificepithet:hophrys" ; Times: 1
+	Query: "specificepithet:octofasciata genus:Rocio" ; Times: 1
+	Query: "locality:clear creek county:&#34;coconino&#34;" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "62245" ; Times: 1
+	Query: "UF 65783" ; Times: 1
+	Query: "distance(location,geopoint(44.161087015,-95.955358188))&lt;53644" ; Times: 2
+	Query: "distance(location,geopoint(46.412667731,-95.7279602395))&lt;54505" ; Times: 2
+	Query: "specificepithet:huallagae family:Cichlidae" ; Times: 1
+	Query: "distance(location,geopoint(39.070019590351,-93.3608964360506))&lt;77242" ; Times: 3
+	Query: "distance(location,geopoint(44.0128878392582,-94.1287720894129))&lt;40780" ; Times: 1
+	Query: "35076" ; Times: 1
+	Query: "distance(location,geopoint(38.8259859740737,-92.504553279826))&lt;12653" ; Times: 2
+	Query: "Sphyrna tiburo" ; Times: 2
+	Query: "24432" ; Times: 1
+	Query: "distance(location,geopoint(43.749976328584,-88.6470217159059))&lt;26905" ; Times: 1
+	Query: "distance(location,geopoint(45.1119865645001,-94.506924154))&lt;30886" ; Times: 2
+	Query: "genus:Parachromis" ; Times: 1
+	Query: "catalognumber:95077" ; Times: 1
+	Query: "specificepithet:meeki genus:Thorichthys" ; Times: 1
+	Query: "BOLLMANNIA UMBROSA" ; Times: 1
+	Query: "catalognumber:203840" ; Times: 1
+	Query: "Neotrygon" ; Times: 1
+	Query: "unicorn" ; Times: 5
+	Query: "xiphophorus hellerii" ; Times: 3
+	Query: "distance(location,geopoint(43.6460140694535,-96.2317194161254))&lt;17309" ; Times: 2
+	Query: "distance(location,geopoint(46.9340952330001,-95.719205936))&lt;42896" ; Times: 2
+	Query: "vntype:specimen specificepithet:adscensionis genus:epinephelus hastissue:1" ; Times: 1
+	Query: "Apogon retrosella" ; Times: 4
+	Query: "catalognumber:74264 institutioncode:UF" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "distance(location,geopoint(45.3941023145,-96.442951676))&lt;34576" ; Times: 2
+	Query: "distance(location,geopoint(39.2687332665436,-90.7884712327553))&lt;17866" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "specificepithet:vultuosa genus:Acaronia" ; Times: 1
+	Query: "specificepithet:curviceps genus:Laetacara" ; Times: 1
+	Query: "distance(location,geopoint(45.259052436225,-93.979293029214))&lt;21143" ; Times: 2
+	Query: "distance(location,geopoint(39.0370135555,-90.5226324925))&lt;19964" ; Times: 2
+	Query: "distance(location,geopoint(41.877340882143,-90.2280541665))&lt;24154" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1178 download events in this period)
+Total number of records downloaded: 6288
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: United Kingdom ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-14 ; Times: 4
+	Date: 2018-05-16 ; Times: 4
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-25 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "percina" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "morone americana" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1960 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "stateprovince:&#34;Oklahoma&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Chlopsis" ; Times: 1
+	Query: "xiphias" ; Times: 1
+	Query: "stateprovince:&#34;Louisiana&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Dysomma" ; Times: 1
+	Query: "class:Actinopterygii stateprovince:&#34;Oklahoma&#34; year &gt;= 1960 year &lt;= 2018" ; Times: 2
+
+
+End of report.
