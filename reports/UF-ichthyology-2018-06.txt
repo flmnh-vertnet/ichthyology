@@ -1,0 +1,397 @@
+Report for Institution Code UF, Resource ichthyology
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 542
+Number of records retrieved in searches: 6886
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 14
+	Country: United States ; Times: 466
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 32
+	Country: Unknown ; Times: 11
+	Country: Finland ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 4
+	Country: Kuwait ; Times: 2
+	Country: Germany ; Times: 2
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 17
+	Date: 2018-06-06 ; Times: 56
+	Date: 2018-06-05 ; Times: 13
+	Date: 2018-06-04 ; Times: 5
+	Date: 2018-06-29 ; Times: 21
+	Date: 2018-06-02 ; Times: 5
+	Date: 2018-06-01 ; Times: 4
+	Date: 2018-06-25 ; Times: 7
+	Date: 2018-06-24 ; Times: 1
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 3
+	Date: 2018-06-21 ; Times: 114
+	Date: 2018-06-20 ; Times: 33
+	Date: 2018-06-08 ; Times: 33
+	Date: 2018-06-22 ; Times: 1
+	Date: 2018-06-11 ; Times: 5
+	Date: 2018-06-12 ; Times: 26
+	Date: 2018-06-13 ; Times: 55
+	Date: 2018-06-14 ; Times: 40
+	Date: 2018-06-15 ; Times: 39
+	Date: 2018-06-16 ; Times: 10
+	Date: 2018-06-17 ; Times: 4
+	Date: 2018-06-18 ; Times: 8
+	Date: 2018-06-19 ; Times: 29
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-28 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "Acanthurus achilles mappable:1" ; Times: 3
+	Query: "UF 73201" ; Times: 2
+	Query: "UF 73203" ; Times: 2
+	Query: "catalognumber:66171" ; Times: 1
+	Query: "157240" ; Times: 1
+	Query: "UF N 419" ; Times: 1
+	Query: "UF 109332" ; Times: 1
+	Query: "65362" ; Times: 1
+	Query: "95500" ; Times: 1
+	Query: "UF 108691" ; Times: 3
+	Query: "UF 108693" ; Times: 1
+	Query: "Acanthurus randalli" ; Times: 2
+	Query: "Acanthurus olivaceus mappable:1" ; Times: 3
+	Query: "Ctenochaetus striatus mappable:1" ; Times: 4
+	Query: "Zebrasoma scopas" ; Times: 2
+	Query: "distance(location,geopoint(45.1119776310102,-94.507046023876))&lt;45034" ; Times: 1
+	Query: "UF 70093" ; Times: 1
+	Query: "UF 70092" ; Times: 3
+	Query: "UF 61767" ; Times: 1
+	Query: "107927" ; Times: 1
+	Query: "Acanthurus sp. mappable:1" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "catalognumber:18445 institutioncode:UF" ; Times: 2
+	Query: "133939" ; Times: 3
+	Query: "Gila bicolor" ; Times: 1
+	Query: "UF 71472" ; Times: 2
+	Query: "UF 31350" ; Times: 2
+	Query: "Etheostoma douglasi" ; Times: 8
+	Query: "UF 58757" ; Times: 3
+	Query: "distance(location,geopoint(38.3077605964849,-90.3488216489505))&lt;13734" ; Times: 1
+	Query: "UF 59244" ; Times: 4
+	Query: "UF 58819" ; Times: 3
+	Query: "specificepithet:barbus genus:Barbus" ; Times: 1
+	Query: "aphanius" ; Times: 1
+	Query: "johannae" ; Times: 2
+	Query: "distance(location,geopoint(39.8811126354848,-90.5450667498278))&lt;20513" ; Times: 1
+	Query: "UF 58813" ; Times: 1
+	Query: "Zebrasoma xanthurum" ; Times: 2
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "UF 64385" ; Times: 3
+	Query: "stateprovince:&#34;Espirito Santo&#34; institutioncode:UF" ; Times: 2
+	Query: "genus:chrosomus stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "UF 64220" ; Times: 3
+	Query: "UF 107199" ; Times: 1
+	Query: "UF 150147" ; Times: 2
+	Query: "UF 150146" ; Times: 2
+	Query: "UF 101197" ; Times: 1
+	Query: "16262" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "Menidia extensa" ; Times: 1
+	Query: "Acanthurus nigroris mappable:1" ; Times: 3
+	Query: "Robinsia" ; Times: 1
+	Query: "distance(location,geopoint(45.0186511975549,-94.162894036879))&lt;22087" ; Times: 1
+	Query: "Acanthurus triostegus mappable:1" ; Times: 2
+	Query: "99460" ; Times: 2
+	Query: "catalognumber:9392 institutioncode:UF" ; Times: 2
+	Query: "UF 58431" ; Times: 5
+	Query: "Sphyraena barracuda mappable:1" ; Times: 1
+	Query: "175101" ; Times: 3
+	Query: "Naso unicornis mappable:1" ; Times: 2
+	Query: "Acanthurus coeruleus mappable:1" ; Times: 3
+	Query: "Zebrasoma veliferum mappable:1" ; Times: 2
+	Query: "Tridensimilis brevis" ; Times: 1
+	Query: "Oxynotus" ; Times: 1
+	Query: "corniger" ; Times: 1
+	Query: "Acanthurus nigrofuscus" ; Times: 2
+	Query: "UF 64505" ; Times: 1
+	Query: "county:&#34;Davie&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "florida worm" ; Times: 3
+	Query: "Naso sp. mappable:1" ; Times: 2
+	Query: "catalognumber:6398 institutioncode:UF" ; Times: 2
+	Query: "county:&#34;calhoun&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "UF 58848" ; Times: 2
+	Query: "Puntius lineatus" ; Times: 1
+	Query: "UF 1686" ; Times: 1
+	Query: "CM 7715" ; Times: 2
+	Query: "recordedby:Breese" ; Times: 1
+	Query: "Flavescens iowa" ; Times: 2
+	Query: "distance(location,geopoint(44.6766598036737,-93.415851845333))&lt;11614" ; Times: 1
+	Query: "distance(location,geopoint(44.8282743318785,-94.2790539204441))&lt;38517" ; Times: 1
+	Query: "Naso unicornis" ; Times: 2
+	Query: "Tridensimilis venezuelae" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "Acanthurus achilles" ; Times: 3
+	Query: "Acanthurus hepatus mappable:1" ; Times: 3
+	Query: "UF 37917" ; Times: 1
+	Query: "UF 20991" ; Times: 1
+	Query: "Ctenochaetus strigosus mappable:1" ; Times: 7
+	Query: "Periophthalmus waltoni" ; Times: 1
+	Query: "Acanthurus lineatus" ; Times: 3
+	Query: "Acanthurus bahianus mappable:1" ; Times: 3
+	Query: "172670" ; Times: 1
+	Query: "hippocampus erectus" ; Times: 1
+	Query: "gomezi" ; Times: 1
+	Query: "59971" ; Times: 1
+	Query: "UF 32133" ; Times: 2
+	Query: "distance(location,geopoint(45.2753844185115,-94.1628331295119))&lt;22822" ; Times: 1
+	Query: "lebiasina" ; Times: 1
+	Query: "catalognumber:5788" ; Times: 1
+	Query: "catalognumber:130666" ; Times: 1
+	Query: "Zebrasoma flavescens" ; Times: 3
+	Query: "Acanthurus thompsoni" ; Times: 2
+	Query: "70092" ; Times: 1
+	Query: "Zebrasoma flavescens mappable:1" ; Times: 3
+	Query: "locality:el morro" ; Times: 2
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "fieldnumber:2027" ; Times: 1
+	Query: "Ctenochaetus strigosus" ; Times: 7
+	Query: "229846" ; Times: 1
+	Query: "36384`1" ; Times: 1
+	Query: "Acanthurus glaucopareius mappable:1" ; Times: 1
+	Query: "Vipera" ; Times: 1
+	Query: "Naso lituratus mappable:1" ; Times: 3
+	Query: "UF 21017" ; Times: 3
+	Query: "Acanthurus hepatus" ; Times: 3
+	Query: "distance(location,geopoint(45.1023002453255,-93.167236335211))&lt;12793" ; Times: 1
+	Query: "Zebrasoma veliferum" ; Times: 2
+	Query: "UF 32439" ; Times: 1
+	Query: "distance(location,geopoint(44.954125234549,-93.1744568655617))&lt;12380" ; Times: 1
+	Query: "catalognumber:11220 institutioncode:UF" ; Times: 1
+	Query: "cyprinodontiformes cyprinodon order:Cyprinodontiformes hastissue:1" ; Times: 2
+	Query: "UF 60196" ; Times: 1
+	Query: "UF 21009" ; Times: 2
+	Query: "Prionurus biafraensis mappable:1" ; Times: 2
+	Query: "UF 59216" ; Times: 1
+	Query: "68899" ; Times: 1
+	Query: "UF 59215" ; Times: 3
+	Query: "Acanthurus elongatus" ; Times: 2
+	Query: "21294" ; Times: 1
+	Query: "Adrianichthyidae hastissue:1" ; Times: 1
+	Query: "UF 101468" ; Times: 3
+	Query: "Poeciliopsis occidentalis" ; Times: 1
+	Query: "catalognumber:18446 institutioncode:UF" ; Times: 2
+	Query: "UF 61734" ; Times: 4
+	Query: "Lebiasina bimaculata" ; Times: 2
+	Query: "Haemulon steindachneri" ; Times: 2
+	Query: "Ctenochaetus binotatus" ; Times: 3
+	Query: "distance(location,geopoint(43.7498440531908,-96.162771894612))&lt;12275" ; Times: 1
+	Query: "catalognumber:33420 institutioncode:UF" ; Times: 2
+	Query: "95780" ; Times: 5
+	Query: "distance(location,geopoint(39.0273643449831,-85.802234491073))&lt;11980" ; Times: 1
+	Query: "98464" ; Times: 1
+	Query: "UF 58868" ; Times: 3
+	Query: "19696" ; Times: 1
+	Query: "Hepatus hepatus mappable:1" ; Times: 3
+	Query: "UF 175921" ; Times: 1
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "UF 156142" ; Times: 4
+	Query: "hypsibarbus malcolmi" ; Times: 1
+	Query: "88765" ; Times: 1
+	Query: "UF 60205" ; Times: 1
+	Query: "catalognumber:119073" ; Times: 1
+	Query: "UF 60201" ; Times: 1
+	Query: "UF 60200" ; Times: 2
+	Query: "UF 144690" ; Times: 4
+	Query: "Barbus caninus" ; Times: 1
+	Query: "specificepithet:vittatus family:Cichlidae" ; Times: 1
+	Query: "UF 61788" ; Times: 3
+	Query: "Acanthurus lineatus mappable:1" ; Times: 3
+	Query: "UF 21014" ; Times: 1
+	Query: "UF 175152" ; Times: 1
+	Query: "99456" ; Times: 1
+	Query: "99457" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "fluviphylax" ; Times: 1
+	Query: "Zebrasoma xanthurum mappable:1" ; Times: 2
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "cats" ; Times: 1
+	Query: "Acanthurus xanthopterus" ; Times: 2
+	Query: "country:&#34;honduras&#34; year &gt;= 1965 year &lt;= 1965" ; Times: 2
+	Query: "UF 56804" ; Times: 1
+	Query: "UF 56803" ; Times: 1
+	Query: "Prionurus biafraensis" ; Times: 2
+	Query: "UF 21000" ; Times: 3
+	Query: "Acanthurus nigrofuscus mappable:1" ; Times: 2
+	Query: "94944" ; Times: 2
+	Query: "Ctenochaetus binotatus mappable:1" ; Times: 3
+	Query: "CM 4230" ; Times: 1
+	Query: "UF 60176" ; Times: 4
+	Query: "79409" ; Times: 1
+	Query: "Acanthurus olivaceus" ; Times: 3
+	Query: "UF 58486" ; Times: 3
+	Query: "Acanthurus nigroris" ; Times: 3
+	Query: "Acanthurus thompsoni mappable:1" ; Times: 2
+	Query: "Acanthurus triostegus" ; Times: 2
+	Query: "Naso vlamingi mappable:1" ; Times: 1
+	Query: "UF 61765" ; Times: 2
+	Query: "Acanthurus randalli mappable:1" ; Times: 2
+	Query: "64939" ; Times: 1
+	Query: "UF 101480" ; Times: 2
+	Query: "boleophthalmus" ; Times: 1
+	Query: "Chaetodon meta" ; Times: 1
+	Query: "Acanthurus nigricauda" ; Times: 4
+	Query: "UF 56368" ; Times: 3
+	Query: "UF 58470" ; Times: 3
+	Query: "Acanthurus glaucopareius" ; Times: 1
+	Query: "atractosteus tropicus" ; Times: 22
+	Query: "UF 56367" ; Times: 1
+	Query: "Ictalurus sp." ; Times: 1
+	Query: "scoloplax" ; Times: 1
+	Query: "Acanthurus sp." ; Times: 1
+	Query: "Acanthurus guttatus mappable:1" ; Times: 4
+	Query: "UF 64465" ; Times: 4
+	Query: "distance(location,geopoint(44.8059502237725,-93.415851845333))&lt;12831" ; Times: 1
+	Query: "187212" ; Times: 1
+	Query: "UF 56791" ; Times: 2
+	Query: "Acanthurus monroviae" ; Times: 2
+	Query: "42139-1" ; Times: 1
+	Query: "Acanthurus triostegus triostegus mappable:1" ; Times: 1
+	Query: "137077" ; Times: 1
+	Query: "UF 58491" ; Times: 1
+	Query: "Acanthurus tractus mappable:1" ; Times: 2
+	Query: "UF 59217" ; Times: 1
+	Query: "Ctenochaetus striatus" ; Times: 4
+	Query: "Chlamydoselachus" ; Times: 1
+	Query: "UF 157236" ; Times: 1
+	Query: "UF 64499" ; Times: 2
+	Query: "UF 63175" ; Times: 2
+	Query: "Acanthurus xanthopterus mappable:1" ; Times: 2
+	Query: "Acanthurus elongatus mappable:1" ; Times: 2
+	Query: "UF 53859" ; Times: 2
+	Query: "UF 20248" ; Times: 2
+	Query: "UF 156335" ; Times: 1
+	Query: "Zebrasoma scopas mappable:1" ; Times: 2
+	Query: "Epinephelus chlorostigma" ; Times: 1
+	Query: "UF 58386" ; Times: 3
+	Query: "UF 157240" ; Times: 1
+	Query: "UF 70089" ; Times: 1
+	Query: "Acanthurus tractus" ; Times: 2
+	Query: "percina nasuta" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "UF 92083" ; Times: 1
+	Query: "distance(location,geopoint(38.948701928946,-85.8056194503849))&lt;13560" ; Times: 1
+	Query: "UF 98467" ; Times: 2
+	Query: "28940" ; Times: 1
+	Query: "Acanthurus nigricauda mappable:1" ; Times: 4
+	Query: "31224" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "64465" ; Times: 1
+	Query: "156142" ; Times: 1
+	Query: "39047" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "orestias" ; Times: 1
+	Query: "Naso vlamingi" ; Times: 1
+	Query: "Barbodes binotatus" ; Times: 1
+	Query: "UF 156139" ; Times: 3
+	Query: "Acanthurus guttatus" ; Times: 4
+	Query: "UF 156333" ; Times: 3
+	Query: "UF 96657" ; Times: 1
+	Query: "Naso lituratus" ; Times: 3
+	Query: "UF 61781" ; Times: 2
+	Query: "UF 109324" ; Times: 2
+	Query: "UF 61787" ; Times: 1
+	Query: "UF 109322" ; Times: 1
+	Query: "UF 108689" ; Times: 1
+	Query: "unicorn" ; Times: 3
+	Query: "Acanthurus chirurgus" ; Times: 6
+	Query: "56785" ; Times: 1
+	Query: "Hepatus hepatus" ; Times: 3
+	Query: "Acanthurus bahianus" ; Times: 3
+	Query: "UF 58419" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "earhart" ; Times: 1
+	Query: "county:&#34;Clark&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Acanthurus triostegus triostegus" ; Times: 1
+	Query: "county:&#34;Columbia&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "Bay Minette" ; Times: 1
+	Query: "catalognumber:18447 institutioncode:UF" ; Times: 2
+	Query: "Acanthurus coeruleus" ; Times: 3
+	Query: "UF 70088" ; Times: 1
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "70533" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "county:&#34;Desha&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Acanthurus monroviae mappable:1" ; Times: 2
+	Query: "UF 107198" ; Times: 3
+	Query: "county:&#34;Calhoun&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 2
+	Query: "distance(location,geopoint(43.6460140694535,-96.2317194161254))&lt;17309" ; Times: 1
+	Query: "Naso sp." ; Times: 2
+	Query: "Catenatus oklahoma" ; Times: 3
+	Query: "59215" ; Times: 1
+	Query: "Acanthurus chirurgus mappable:1" ; Times: 6
+	Query: "distance(location,geopoint(46.1655080625069,-93.5879536581953))&lt;18477" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 36 (out of 1169 download events in this period)
+Total number of records downloaded: 942
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 29
+	Country: Unknown ; Times: 1
+	Country: Panama ; Times: 2
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-01 ; Times: 2
+	Date: 2018-06-06 ; Times: 7
+	Date: 2018-06-05 ; Times: 3
+	Date: 2018-06-07 ; Times: 6
+	Date: 2018-06-11 ; Times: 2
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 4
+	Date: 2018-06-28 ; Times: 1
+	Date: 2018-06-16 ; Times: 1
+	Date: 2018-06-18 ; Times: 3
+	Date: 2018-06-27 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "sea otter" ; Times: 2
+	Query: "eno river" ; Times: 1
+	Query: "bullfrog" ; Times: 3
+	Query: "stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "Scomberomorus sierra" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "chihuahua" ; Times: 1
+	Query: "sphoeroides parvus vntype:specimen" ; Times: 1
+	Query: "Labeo rohita" ; Times: 1
+	Query: "elephant" ; Times: 1
+	Query: "Pterygoplichthys" ; Times: 2
+	Query: "moose" ; Times: 1
+	Query: "Robinsia" ; Times: 1
+	Query: "locality:el morro" ; Times: 1
+	Query: "locality:Cave stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "coyote" ; Times: 1
+	Query: "pterois volitans" ; Times: 1
+	Query: "pond turtle" ; Times: 1
+	Query: "penguin" ; Times: 2
+	Query: "atractosteus tropicus" ; Times: 1
+	Query: "county:&#34;Clark&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "sea turtle" ; Times: 1
+	Query: "beavers" ; Times: 1
+	Query: "black bear" ; Times: 4
+	Query: "county:&#34;Calhoun&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "county:&#34;Columbia&#34; stateprovince:&#34;Arkansas&#34; collectioncode:Fish year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
