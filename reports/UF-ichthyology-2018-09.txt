@@ -1,0 +1,235 @@
+Report for Institution Code UF, Resource ichthyology
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 234
+Number of records retrieved in searches: 1504
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 8
+	Country: Colombia ; Times: 1
+	Country: Portugal ; Times: 21
+	Country: Mexico ; Times: 19
+	Country: France ; Times: 1
+	Country: United States ; Times: 142
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 10
+	Country: Ireland ; Times: 1
+	Country: Belgium ; Times: 16
+	Country: China ; Times: 4
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-05 ; Times: 10
+	Date: 2018-09-24 ; Times: 1
+	Date: 2018-09-25 ; Times: 8
+	Date: 2018-09-26 ; Times: 13
+	Date: 2018-09-01 ; Times: 4
+	Date: 2018-09-06 ; Times: 7
+	Date: 2018-09-21 ; Times: 18
+	Date: 2018-09-04 ; Times: 10
+	Date: 2018-09-23 ; Times: 4
+	Date: 2018-09-09 ; Times: 5
+	Date: 2018-09-28 ; Times: 10
+	Date: 2018-09-29 ; Times: 3
+	Date: 2018-09-30 ; Times: 4
+	Date: 2018-09-11 ; Times: 4
+	Date: 2018-09-10 ; Times: 4
+	Date: 2018-09-13 ; Times: 45
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-17 ; Times: 11
+	Date: 2018-09-16 ; Times: 7
+	Date: 2018-09-19 ; Times: 19
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-02 ; Times: 1
+	Date: 2018-09-03 ; Times: 1
+	Date: 2018-09-27 ; Times: 9
+	Date: 2018-09-20 ; Times: 20
+	Date: 2018-09-07 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:1467 institutioncode:UF" ; Times: 4
+	Query: "catalognumber:18223 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:477 institutioncode:UF" ; Times: 1
+	Query: "Oncorhynchus kisutch" ; Times: 1
+	Query: "locality:Lobos de afuera country:&#34;Peru&#34;" ; Times: 2
+	Query: "astyanax cave" ; Times: 1
+	Query: "skeleton vntype:specimen genus:Alosa" ; Times: 1
+	Query: "catalognumber:66441 institutioncode:UF" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "Isogomphodon oxyrhynchus" ; Times: 1
+	Query: "Talismania antillarum" ; Times: 1
+	Query: "Ageneiosus atronasus" ; Times: 1
+	Query: "148623" ; Times: 1
+	Query: "Melanostomias macrophotus" ; Times: 1
+	Query: "gbifdatasetid:eccf4b09-f0c8-462d-a48c-41a7ce36815a" ; Times: 2
+	Query: "Maulisia argipalla" ; Times: 1
+	Query: "80729" ; Times: 1
+	Query: "catalognumber:18099 institutioncode:UF" ; Times: 2
+	Query: "Poecilia reticulata" ; Times: 1
+	Query: "UMML 22861" ; Times: 1
+	Query: "116396" ; Times: 1
+	Query: "lipogenys" ; Times: 1
+	Query: "Potamotrygon scobina" ; Times: 2
+	Query: "hypostomus niceforoi" ; Times: 2
+	Query: "catalognumber:226326 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:226485 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:149669" ; Times: 1
+	Query: "UF 63183" ; Times: 1
+	Query: "catalognumber:203112 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:102604 institutioncode:UF" ; Times: 2
+	Query: "specificepithet:manadensis" ; Times: 1
+	Query: "Steve Campbell" ; Times: 1
+	Query: "UF 88726" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "catalognumber:2417 institutioncode:UF" ; Times: 1
+	Query: "Bathophilus metallicus" ; Times: 1
+	Query: "catalognumber:102633 institutioncode:UF" ; Times: 2
+	Query: "Acipenser transmontanus" ; Times: 1
+	Query: "catalognumber:115555" ; Times: 1
+	Query: "saccopharynx" ; Times: 1
+	Query: "Centropomus undecimalis" ; Times: 1
+	Query: "Danio rerio" ; Times: 2
+	Query: "catalognumber:132000 institutioncode:UF" ; Times: 4
+	Query: "genus:Pseudohomaloptera specificepithet:sexmaculata" ; Times: 1
+	Query: "Melanostomias tentaculatus" ; Times: 1
+	Query: "UF 134734" ; Times: 2
+	Query: "Polyodon spathula" ; Times: 5
+	Query: "Talismania homoptera" ; Times: 2
+	Query: "cooter" ; Times: 1
+	Query: "catalognumber:142362 institutioncode:UF" ; Times: 2
+	Query: "specificepithet:hasemani genus:parapteronotus" ; Times: 1
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "117645" ; Times: 2
+	Query: "117643" ; Times: 2
+	Query: "sphoeroides nephelus hastissue:1" ; Times: 1
+	Query: "Yarrella blackfordi" ; Times: 2
+	Query: "Chauliodus schmidti" ; Times: 1
+	Query: "Henicorhynchus lobatus" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "catalognumber:30216 institutioncode:UF" ; Times: 2
+	Query: "117648" ; Times: 1
+	Query: "Channa maculata" ; Times: 1
+	Query: "anguilla rostrata susquehanna" ; Times: 1
+	Query: "M-101633" ; Times: 1
+	Query: "catalognumber:87789 institutioncode:UF" ; Times: 2
+	Query: "genus:Homalopterula specificepithet:gymnogaster" ; Times: 1
+	Query: "95155" ; Times: 1
+	Query: "95154" ; Times: 1
+	Query: "95157" ; Times: 1
+	Query: "95156" ; Times: 1
+	Query: "Astronesthes macropogon" ; Times: 1
+	Query: "Squatina oculata" ; Times: 1
+	Query: "&#34;Lucania goodei&#34;" ; Times: 5
+	Query: "27792" ; Times: 1
+	Query: "white shark" ; Times: 13
+	Query: "216441" ; Times: 1
+	Query: "Gadella imberbis" ; Times: 1
+	Query: "Etheostoma osburni" ; Times: 2
+	Query: "leprus" ; Times: 1
+	Query: "Stomias longibarbatus" ; Times: 1
+	Query: "123479" ; Times: 1
+	Query: "MUZ" ; Times: 1
+	Query: "elassodiscus" ; Times: 1
+	Query: "Peckoltia brevis" ; Times: 1
+	Query: "Muraena melanotis" ; Times: 1
+	Query: "South Toe Moxostoma" ; Times: 1
+	Query: "catalognumber:17520 institutioncode:UF" ; Times: 1
+	Query: "Liparis callyodon" ; Times: 1
+	Query: "UF 134729" ; Times: 2
+	Query: "Ctenopharyngodon idella" ; Times: 1
+	Query: "genus:Melanocetus specificepithet:johnsoni" ; Times: 1
+	Query: "Grammatostomias flagellibarba" ; Times: 1
+	Query: "UF 128167" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "catalognumber:207963 institutioncode:UF" ; Times: 2
+	Query: "117622" ; Times: 1
+	Query: "county:&#34;mexico&#34;" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "catalognumber:176513" ; Times: 1
+	Query: "Carassius auratus" ; Times: 2
+	Query: "catalognumber:18027 institutioncode:UF" ; Times: 2
+	Query: "116390" ; Times: 2
+	Query: "Conocara salmoneum" ; Times: 1
+	Query: "genus:trichiurus hastissue:1" ; Times: 3
+	Query: "harms" ; Times: 1
+	Query: "catalognumber:102026" ; Times: 1
+	Query: "Boreogadus saida mappable:1" ; Times: 16
+	Query: "Lampanyctus macdonaldi" ; Times: 2
+	Query: "Peckoltia vittata" ; Times: 1
+	Query: "genus:Epinephelus specificepithet:nigritus" ; Times: 1
+	Query: "kupfer" ; Times: 1
+	Query: "Henicorhynchus ornatipinnis" ; Times: 1
+	Query: "117615" ; Times: 1
+	Query: "catalognumber:113563" ; Times: 1
+	Query: "torpedo californica" ; Times: 1
+	Query: "Sebastes serranoides" ; Times: 1
+	Query: "Mentodus rostratus" ; Times: 3
+	Query: "Hemichromis bimaculatus" ; Times: 1
+	Query: "Diaphus adenomus" ; Times: 1
+	Query: "genus:Eptatretus specificepithet:lopheliae" ; Times: 1
+	Query: "barathronus" ; Times: 1
+	Query: "Alepocephalus productus" ; Times: 2
+	Query: "99925" ; Times: 1
+	Query: "212301" ; Times: 1
+	Query: "93278" ; Times: 1
+	Query: "Ocyurus chrysurus" ; Times: 2
+	Query: "117617" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "159797" ; Times: 1
+	Query: "notropis allegheny North Carolina" ; Times: 1
+	Query: "catalognumber:59437" ; Times: 1
+	Query: "acanthurus tractus" ; Times: 4
+	Query: "hoplias microlepis" ; Times: 1
+	Query: "Astronesthes caulophorus" ; Times: 1
+	Query: "stateprovince:&#34;Florida&#34; recordedby:Chapman" ; Times: 1
+	Query: "catalognumber:96257 institutioncode:UF" ; Times: 2
+	Query: "unicorn" ; Times: 4
+	Query: "Polymetme thaeocoryla" ; Times: 1
+	Query: "Salmo sp" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "Grammatostomias dentatus" ; Times: 1
+	Query: "Scyliorhinus retifer" ; Times: 2
+	Query: "catalognumber:81237 institutioncode:UF" ; Times: 6
+	Query: "catalognumber:17189 institutioncode:UF" ; Times: 2
+	Query: "noturus munitus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 846 download events in this period)
+Total number of records downloaded: 3631
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-01 ; Times: 1
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-06 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 1
+	Query: "Etheostoma osburni" ; Times: 1
+	Query: "gambusia holbrooki" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "bullfrog" ; Times: 1
+	Query: "Grammatostomias dentatus" ; Times: 1
+	Query: "Gambusia nobilis" ; Times: 2
+	Query: "distance(location,geopoint(-12.006230714144326,-37.878616699745066))&lt;100000" ; Times: 1
+	Query: "river otter" ; Times: 1
+
+
+End of report.
