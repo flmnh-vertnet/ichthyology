@@ -1,0 +1,360 @@
+Report for Institution Code UF, Resource ichthyology
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 444
+Number of records retrieved in searches: 2821
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 6
+	Country: United States ; Times: 168
+	Country: Netherlands ; Times: 17
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 36
+	Country: South Africa ; Times: 1
+	Country: France ; Times: 153
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 15
+	Country: Colombia ; Times: 2
+	Country: Belgium ; Times: 18
+	Country: Argentina ; Times: 8
+	Country: Venezuela ; Times: 4
+	Country: Brazil ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-31 ; Times: 142
+	Date: 2019-01-23 ; Times: 41
+	Date: 2019-01-18 ; Times: 8
+	Date: 2019-01-19 ; Times: 4
+	Date: 2019-01-14 ; Times: 4
+	Date: 2019-01-15 ; Times: 6
+	Date: 2019-01-30 ; Times: 79
+	Date: 2019-01-17 ; Times: 13
+	Date: 2019-01-10 ; Times: 3
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-13 ; Times: 4
+	Date: 2019-01-03 ; Times: 8
+	Date: 2019-01-02 ; Times: 4
+	Date: 2019-01-29 ; Times: 24
+	Date: 2019-01-28 ; Times: 3
+	Date: 2019-01-01 ; Times: 3
+	Date: 2019-01-07 ; Times: 8
+	Date: 2019-01-04 ; Times: 18
+	Date: 2019-01-21 ; Times: 4
+	Date: 2019-01-20 ; Times: 9
+	Date: 2019-01-09 ; Times: 8
+	Date: 2019-01-22 ; Times: 3
+	Date: 2019-01-25 ; Times: 6
+	Date: 2019-01-24 ; Times: 7
+	Date: 2019-01-27 ; Times: 12
+	Date: 2019-01-08 ; Times: 9
+	Date: 2019-01-16 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:17699 institutioncode:UF" ; Times: 2
+	Query: "ogcocephalus hastissue:1" ; Times: 3
+	Query: "108252" ; Times: 2
+	Query: "84998" ; Times: 1
+	Query: "Hirundichthys rondeletii mappable:1" ; Times: 2
+	Query: "Phycis phycis mappable:1" ; Times: 2
+	Query: "catalognumber:46828 institutioncode:UF" ; Times: 1
+	Query: "Synodus saurus mappable:1" ; Times: 1
+	Query: "Sardina pilchardus mappable:1" ; Times: 5
+	Query: "16565" ; Times: 1
+	Query: "specificepithet:perpallidus genus:notropis" ; Times: 1
+	Query: "Trygonorrhina" ; Times: 1
+	Query: "Lipophrys trigloides mappable:1" ; Times: 2
+	Query: "Aidablennius sphynx mappable:1" ; Times: 4
+	Query: "Oblada melanura mappable:1" ; Times: 2
+	Query: "Melanogrammus aeglefinus mappable:1" ; Times: 1
+	Query: "Cetorhinus maximus mappable:1" ; Times: 4
+	Query: "20371" ; Times: 1
+	Query: "Acanthaster planci" ; Times: 1
+	Query: "167624" ; Times: 3
+	Query: "catalognumber:16606 institutioncode:UF" ; Times: 1
+	Query: "160294" ; Times: 1
+	Query: "catalognumber:21958 institutioncode:UF" ; Times: 1
+	Query: "22236" ; Times: 1
+	Query: "Centrophorus squamosus mappable:1" ; Times: 4
+	Query: "catalognumber:47542 institutioncode:UF" ; Times: 1
+	Query: "166656" ; Times: 1
+	Query: "catalognumber:207339 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:14690 institutioncode:UF" ; Times: 1
+	Query: "trygonorrhina" ; Times: 1
+	Query: "catalognumber:81693 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:48893 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:47545 institutioncode:UF" ; Times: 1
+	Query: "marine shells" ; Times: 1
+	Query: "16464" ; Times: 1
+	Query: "catalognumber:47502 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:47443 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:47440 institutioncode:UF" ; Times: 1
+	Query: "Gymnothorax unicolor mappable:1" ; Times: 3
+	Query: "Brevoortia aurea" ; Times: 7
+	Query: "16264" ; Times: 2
+	Query: "Nerophis maculatus mappable:1" ; Times: 2
+	Query: "Symphodus mediterraneus mappable:1" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "Clupea harengus mappable:1" ; Times: 1
+	Query: "catalognumber:47503 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:24521 institutioncode:UF" ; Times: 1
+	Query: "15059" ; Times: 2
+	Query: "catalognumber:47753 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:88005 institutioncode:UF" ; Times: 1
+	Query: "207598" ; Times: 1
+	Query: "21773" ; Times: 1
+	Query: "catalognumber:207350 institutioncode:UF" ; Times: 1
+	Query: "hypsypops rubicundus" ; Times: 1
+	Query: "233102" ; Times: 1
+	Query: "elacatinus horsti" ; Times: 1
+	Query: "catalognumber:144878" ; Times: 1
+	Query: "Carcharhinus limbatus" ; Times: 2
+	Query: "135527" ; Times: 1
+	Query: "81173" ; Times: 1
+	Query: "Trachinus araneus mappable:1" ; Times: 1
+	Query: "Parrella maxillaris" ; Times: 3
+	Query: "mullus barbatus" ; Times: 2
+	Query: "70516" ; Times: 1
+	Query: "137270" ; Times: 1
+	Query: "catalognumber:144863" ; Times: 2
+	Query: "catalognumber:207313 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:14641 institutioncode:UF" ; Times: 1
+	Query: "Alopias vulpinus mappable:1" ; Times: 4
+	Query: "UF 76365" ; Times: 5
+	Query: "56758" ; Times: 1
+	Query: "185763" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "175560" ; Times: 1
+	Query: "Gobius bucchichi mappable:1" ; Times: 3
+	Query: "catalognumber:87227 institutioncode:UF" ; Times: 4
+	Query: "catalognumber:207342 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:47702 institutioncode:UF" ; Times: 1
+	Query: "42855" ; Times: 1
+	Query: "uf 70093" ; Times: 2
+	Query: "catalognumber:98140" ; Times: 1
+	Query: "13917" ; Times: 1
+	Query: "catalognumber:47817 institutioncode:UF" ; Times: 1
+	Query: "77105" ; Times: 2
+	Query: "genus:Pomatoschistus" ; Times: 2
+	Query: "48586" ; Times: 1
+	Query: "Astronotus ocellatus" ; Times: 4
+	Query: "catalognumber:24806 institutioncode:UF" ; Times: 1
+	Query: "18466" ; Times: 1
+	Query: "Astyanax bimaculatus mappable:1" ; Times: 1
+	Query: "catalognumber:47722 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:47721 institutioncode:UF" ; Times: 1
+	Query: "Lasiancistrus guacharote" ; Times: 1
+	Query: "catalognumber:47717 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:103969 institutioncode:UF" ; Times: 1
+	Query: "Opisthonema oglinum Brazil" ; Times: 1
+	Query: "175828" ; Times: 1
+	Query: "Parablennius incognitus mappable:1" ; Times: 2
+	Query: "Oxynotus centrina mappable:1" ; Times: 2
+	Query: "catalognumber:74991" ; Times: 1
+	Query: "Myoxocephalus scorpius mappable:1" ; Times: 1
+	Query: "Trachinotus ovatus mappable:1" ; Times: 1
+	Query: "catalognumber:51152 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:11956" ; Times: 3
+	Query: "catalognumber:47716 institutioncode:UF" ; Times: 1
+	Query: "specificepithet:auritus genus:lepomis stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "31794" ; Times: 1
+	Query: "catalognumber:25708 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:207332 institutioncode:UF" ; Times: 1
+	Query: "Thunnus thynnus mappable:1" ; Times: 1
+	Query: "211316" ; Times: 1
+	Query: "200719" ; Times: 2
+	Query: "201946" ; Times: 1
+	Query: "16408" ; Times: 1
+	Query: "Naucrates ductor mappable:1" ; Times: 2
+	Query: "Solea solea mappable:1" ; Times: 3
+	Query: "Apogon imberbis mappable:1" ; Times: 4
+	Query: "92210" ; Times: 3
+	Query: "35292" ; Times: 1
+	Query: "Chlamydoselachus anguineus mappable:1" ; Times: 4
+	Query: "207528" ; Times: 1
+	Query: "anoplopoma fimbria" ; Times: 1
+	Query: "physical parameters" ; Times: 1
+	Query: "catalognumber:207315 institutioncode:UF" ; Times: 1
+	Query: "Sardinella brasiliensis" ; Times: 18
+	Query: "genus:etheostoma county:&#34;powell&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Opisthonema oglinum" ; Times: 3
+	Query: "catalognumber:156878 institutioncode:UF" ; Times: 1
+	Query: "92740" ; Times: 2
+	Query: "Syngnathus typhle mappable:1" ; Times: 1
+	Query: "catalognumber:14702 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:79993" ; Times: 2
+	Query: "astyanax abramis" ; Times: 2
+	Query: "43627" ; Times: 1
+	Query: "22239" ; Times: 1
+	Query: "Symphodus tinca mappable:1" ; Times: 1
+	Query: "catalognumber:14721 institutioncode:UF" ; Times: 1
+	Query: "22235" ; Times: 1
+	Query: "SP 12543" ; Times: 1
+	Query: "Squatina squatina mappable:1" ; Times: 1
+	Query: "catalognumber:207347 institutioncode:UF" ; Times: 1
+	Query: "UF 26817" ; Times: 3
+	Query: "catalognumber:47445 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:12086 institutioncode:UF" ; Times: 2
+	Query: "156708" ; Times: 1
+	Query: "UF 26818" ; Times: 1
+	Query: "parrella maxillaris" ; Times: 3
+	Query: "pristis" ; Times: 2
+	Query: "156242" ; Times: 2
+	Query: "catalognumber:207331 institutioncode:UF" ; Times: 1
+	Query: "226437" ; Times: 1
+	Query: "catalognumber:207327 institutioncode:UF" ; Times: 1
+	Query: "58523" ; Times: 1
+	Query: "genus:etheostoma county:&#34;mccreary&#34; stateprovince:&#34;kentucky&#34;" ; Times: 1
+	Query: "Trachinus draco mappable:1" ; Times: 1
+	Query: "catalognumber:156964 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:60396 institutioncode:UF" ; Times: 2
+	Query: "Sardinops sagax" ; Times: 1
+	Query: "catalognumber:48899 institutioncode:UF" ; Times: 1
+	Query: "Symphodus ocellatus mappable:1" ; Times: 1
+	Query: "catalognumber:47544 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:45521 institutioncode:UF" ; Times: 1
+	Query: "215064" ; Times: 1
+	Query: "215065" ; Times: 1
+	Query: "Scorpaena maderensis mappable:1" ; Times: 2
+	Query: "(drayton)" ; Times: 1
+	Query: "116293" ; Times: 1
+	Query: "66527" ; Times: 1
+	Query: "catalognumber:93273 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:207322 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:207318 institutioncode:UF" ; Times: 1
+	Query: "Centrophorus granulosus mappable:1" ; Times: 4
+	Query: "catalognumber:13814 institutioncode:UF" ; Times: 1
+	Query: "Dalatias licha mappable:1" ; Times: 4
+	Query: "Bothus podas mappable:1" ; Times: 4
+	Query: "Gobius paganellus mappable:1" ; Times: 3
+	Query: "26287" ; Times: 1
+	Query: "22121" ; Times: 1
+	Query: "catalognumber:14656 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:5622" ; Times: 1
+	Query: "catalognumber:48928 institutioncode:UF" ; Times: 1
+	Query: "Xyrichtys novacula mappable:1" ; Times: 1
+	Query: "catalognumber:207336 institutioncode:UF" ; Times: 1
+	Query: "Ceratoscopelus maderensis mappable:1" ; Times: 4
+	Query: "catalognumber:130813" ; Times: 1
+	Query: "Chelidonichthys lastoviza mappable:1" ; Times: 1
+	Query: "89347" ; Times: 1
+	Query: "catalognumber:207308 institutioncode:UF" ; Times: 1
+	Query: "Pomatoschistus" ; Times: 1
+	Query: "catalognumber:14661 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:13885 institutioncode:UF" ; Times: 1
+	Query: "UF-60205" ; Times: 1
+	Query: "Thalassoma pavo mappable:1" ; Times: 1
+	Query: "Gobiusculus flavescens mappable:1" ; Times: 3
+	Query: "catalognumber:47442 institutioncode:UF" ; Times: 1
+	Query: "Paraplagusia sinerama" ; Times: 1
+	Query: "catalognumber:18826 institutioncode:UF" ; Times: 1
+	Query: "isla utila" ; Times: 3
+	Query: "isurus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "Pholis gunnellus mappable:1" ; Times: 2
+	Query: "catalognumber:16509 institutioncode:UF" ; Times: 3
+	Query: "108399" ; Times: 1
+	Query: "Atherina boyeri mappable:1" ; Times: 4
+	Query: "catalognumber:14671 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:46827 institutioncode:UF" ; Times: 2
+	Query: "35646" ; Times: 1
+	Query: "Polyprion americanus mappable:1" ; Times: 2
+	Query: "Lophius piscatorius mappable:1" ; Times: 1
+	Query: "catalognumber:14645 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:207344 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:5805 institutioncode:UF" ; Times: 2
+	Query: "94787" ; Times: 1
+	Query: "pterygoplichthys punctatus" ; Times: 1
+	Query: "Coryphoblennius galerita mappable:1" ; Times: 4
+	Query: "Epinephelus chlorostigma" ; Times: 5
+	Query: "109133" ; Times: 1
+	Query: "Spicara smaris mappable:1" ; Times: 2
+	Query: "UF 75452" ; Times: 4
+	Query: "Centroscymnus coelolepis mappable:1" ; Times: 4
+	Query: "Amblyraja radiata mappable:1" ; Times: 4
+	Query: "catalognumber:136503" ; Times: 1
+	Query: "catalognumber:21957 institutioncode:UF" ; Times: 1
+	Query: "158053" ; Times: 1
+	Query: "Belone belone mappable:1" ; Times: 1
+	Query: "catalognumber:48901 institutioncode:UF" ; Times: 1
+	Query: "236239" ; Times: 1
+	Query: "Diplodus sargus mappable:1" ; Times: 2
+	Query: "Sphyrna mokarran" ; Times: 1
+	Query: "catalognumber:7128 institutioncode:UF" ; Times: 2
+	Query: "103325" ; Times: 1
+	Query: "catalognumber:207320 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:159018" ; Times: 1
+	Query: "specificepithet:brevipinna genus:Carcharhinus stateprovince:&#34;Texas&#34;" ; Times: 5
+	Query: "125668" ; Times: 1
+	Query: "catalognumber:64300 institutioncode:UF" ; Times: 1
+	Query: "Parablennius sanguinolentus mappable:1" ; Times: 2
+	Query: "catalognumber:47543 institutioncode:UF" ; Times: 1
+	Query: "137586" ; Times: 1
+	Query: "catalognumber:47501 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:47704 institutioncode:UF" ; Times: 1
+	Query: "leptagoniates" ; Times: 1
+	Query: "Hippoglossoides platessoides mappable:1" ; Times: 3
+	Query: "54461" ; Times: 1
+	Query: "catalognumber:106128" ; Times: 1
+	Query: "Lepadogaster lepadogaster mappable:1" ; Times: 2
+	Query: "catalognumber:48904 institutioncode:UF" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "county:&#34;Mexico&#34;" ; Times: 1
+	Query: "207698" ; Times: 1
+	Query: "Deania calcea mappable:1" ; Times: 4
+	Query: "catalognumber:14650 institutioncode:UF" ; Times: 1
+	Query: "Carcharhinus limbatus mappable:1" ; Times: 4
+	Query: "catalognumber:207312 institutioncode:UF" ; Times: 1
+	Query: "81094" ; Times: 1
+	Query: "22237" ; Times: 1
+	Query: "218406" ; Times: 1
+	Query: "catalognumber:207307 institutioncode:UF" ; Times: 2
+	Query: "UF-109332" ; Times: 1
+	Query: "catalognumber:47818 institutioncode:UF" ; Times: 1
+	Query: "Raja miraletus mappable:1" ; Times: 2
+	Query: "93403" ; Times: 1
+	Query: "catalognumber:207321 institutioncode:UF" ; Times: 1
+	Query: "Cyclopterus lumpus mappable:1" ; Times: 4
+	Query: "catalognumber:48328 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:12089 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:45522 institutioncode:UF" ; Times: 1
+	Query: "Pristis" ; Times: 6
+	Query: "133045" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 962 download events in this period)
+Total number of records downloaded: 98
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-28 ; Times: 2
+	Date: 2019-01-18 ; Times: 1
+	Date: 2019-01-10 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bhutan" ; Times: 1
+	Query: "genus:Pomatoschistus" ; Times: 1
+	Query: "carcharodon carcharias" ; Times: 1
+	Query: "Fundulus jenkinsi" ; Times: 2
+	Query: "country:&#34;uruguay&#34;" ; Times: 1
+	Query: "genus:astyanax stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Nauta" ; Times: 1
+	Query: "Paraplagusia sinerama" ; Times: 1
+
+
+End of report.
