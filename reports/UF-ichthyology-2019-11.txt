@@ -1,0 +1,317 @@
+Report for Institution Code UF, Resource ichthyology
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 304
+Number of records retrieved in searches: 2300
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 9
+	Country: Canada ; Times: 5
+	Country: Netherlands ; Times: 6
+	Country: Iran ; Times: 4
+	Country: Colombia ; Times: 5
+	Country: Portugal ; Times: 5
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 12
+	Country: India ; Times: 1
+	Country: France ; Times: 4
+	Country: United States ; Times: 229
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 9
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Italy ; Times: 4
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-19 ; Times: 3
+	Date: 2019-11-18 ; Times: 18
+	Date: 2019-11-30 ; Times: 7
+	Date: 2019-11-15 ; Times: 42
+	Date: 2019-11-14 ; Times: 14
+	Date: 2019-11-16 ; Times: 13
+	Date: 2019-11-11 ; Times: 20
+	Date: 2019-11-10 ; Times: 10
+	Date: 2019-11-13 ; Times: 10
+	Date: 2019-11-12 ; Times: 5
+	Date: 2019-11-08 ; Times: 12
+	Date: 2019-11-28 ; Times: 5
+	Date: 2019-11-29 ; Times: 4
+	Date: 2019-11-20 ; Times: 19
+	Date: 2019-11-21 ; Times: 6
+	Date: 2019-11-22 ; Times: 21
+	Date: 2019-11-24 ; Times: 5
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-26 ; Times: 9
+	Date: 2019-11-27 ; Times: 13
+	Date: 2019-11-06 ; Times: 29
+	Date: 2019-11-07 ; Times: 8
+	Date: 2019-11-04 ; Times: 8
+	Date: 2019-11-05 ; Times: 10
+	Date: 2019-11-02 ; Times: 2
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-01 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:kairiru" ; Times: 1
+	Query: "153578" ; Times: 1
+	Query: "Salmo salar" ; Times: 1
+	Query: "54721" ; Times: 1
+	Query: "54056" ; Times: 1
+	Query: "52778" ; Times: 1
+	Query: "86616" ; Times: 1
+	Query: "17921" ; Times: 1
+	Query: "scott creek genus:gasterosteus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Alopias vulpinus vntype:specimen" ; Times: 1
+	Query: "53648" ; Times: 1
+	Query: "cetostoma" ; Times: 1
+	Query: "Uraspis secunda" ; Times: 2
+	Query: "pondicherry" ; Times: 1
+	Query: "205107" ; Times: 1
+	Query: "scott genus:gasterosteus stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "locality:mushu" ; Times: 1
+	Query: "67280" ; Times: 1
+	Query: "Aluterus scriptus" ; Times: 3
+	Query: "etmopterus" ; Times: 2
+	Query: "18819" ; Times: 2
+	Query: "55422" ; Times: 1
+	Query: "Centropomus undecimalis vntype:specimen year &gt;= 2000" ; Times: 2
+	Query: "specificepithet:sucetta genus:erimyzon stateprovince:&#34;michigan&#34; year &gt;= 200 year &lt;= 2019" ; Times: 1
+	Query: "95833" ; Times: 1
+	Query: "53812" ; Times: 1
+	Query: "johannae" ; Times: 2
+	Query: "207571" ; Times: 1
+	Query: "31201" ; Times: 1
+	Query: "21851" ; Times: 1
+	Query: "catalognumber:6942" ; Times: 1
+	Query: "20605" ; Times: 1
+	Query: "53498" ; Times: 1
+	Query: "45051" ; Times: 1
+	Query: "95836" ; Times: 1
+	Query: "Abramis bjoerkna" ; Times: 1
+	Query: "astronotus hastissue:1" ; Times: 1
+	Query: "Peprilus ovatus vntype:specimen" ; Times: 1
+	Query: "etmopterus granulosus" ; Times: 1
+	Query: "genus:Zameus" ; Times: 1
+	Query: "etmopterus molleri" ; Times: 1
+	Query: "233108" ; Times: 1
+	Query: "genus:gasterosteus recordedby:swift year &gt;= 1960 year &lt;= 1980" ; Times: 1
+	Query: "Oxynotus centrina vntype:specimen" ; Times: 1
+	Query: "specificepithet:gracilis genus:Poeciliopsis" ; Times: 1
+	Query: "Parakneria vntype:specimen hastissue:1" ; Times: 1
+	Query: "109588" ; Times: 1
+	Query: "locality:new hanover" ; Times: 2
+	Query: "Sphyrna mokarran" ; Times: 13
+	Query: "54582" ; Times: 1
+	Query: "genus:etmopterus hastypestatus:1" ; Times: 6
+	Query: "arius seemanni" ; Times: 2
+	Query: "catalognumber:73145" ; Times: 1
+	Query: "240589" ; Times: 1
+	Query: "Scardinius erythrophthalmus" ; Times: 1
+	Query: "Abramis brama" ; Times: 1
+	Query: "genus:Odontaspis" ; Times: 1
+	Query: "45337" ; Times: 1
+	Query: "46986" ; Times: 1
+	Query: "154655" ; Times: 1
+	Query: "catalognumber:74838" ; Times: 1
+	Query: "Barbus altianalis" ; Times: 2
+	Query: "Somniosus microcephalus vntype:specimen" ; Times: 3
+	Query: "Poeciliopsis gracilis" ; Times: 1
+	Query: "Mike Scott" ; Times: 2
+	Query: "Doryrhamphus melanopleura" ; Times: 1
+	Query: "175910" ; Times: 1
+	Query: "genus:Eusphyra" ; Times: 1
+	Query: "genus:etmopterus country:&#34;japan&#34;" ; Times: 4
+	Query: "203751" ; Times: 1
+	Query: "216983" ; Times: 1
+	Query: "Brotula multibarbata" ; Times: 1
+	Query: "microspathodon chrysurus" ; Times: 1
+	Query: "216907" ; Times: 1
+	Query: "Sphyrna lewini mappable:1" ; Times: 1
+	Query: "Parapteronotus hasemani" ; Times: 4
+	Query: "Danio rerio" ; Times: 2
+	Query: "60015" ; Times: 1
+	Query: "24573" ; Times: 1
+	Query: "Cyprinus carpio vntype:specimen hastissue:1" ; Times: 1
+	Query: "216908" ; Times: 1
+	Query: "20532" ; Times: 2
+	Query: "154810" ; Times: 1
+	Query: "UF 142444" ; Times: 2
+	Query: "fieldnumber:4331" ; Times: 1
+	Query: "Eugenia florida mappable:1" ; Times: 1
+	Query: "56937" ; Times: 2
+	Query: "Thunnus obesus" ; Times: 2
+	Query: "Caranx sexfasciatus" ; Times: 1
+	Query: "Liparis dennyi" ; Times: 1
+	Query: "genus:Mitsukurina basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "204408" ; Times: 1
+	Query: "Allocyttus folletti" ; Times: 1
+	Query: "154662" ; Times: 1
+	Query: "166631" ; Times: 1
+	Query: "113634" ; Times: 1
+	Query: "Acrocheilus alutaceus" ; Times: 2
+	Query: "Crandon Park Zoo" ; Times: 1
+	Query: "54548" ; Times: 1
+	Query: "25328" ; Times: 1
+	Query: "216997" ; Times: 1
+	Query: "aluterus scriptus" ; Times: 1
+	Query: "19197" ; Times: 1
+	Query: "64191" ; Times: 1
+	Query: "cyprinodon eximius" ; Times: 1
+	Query: "86545" ; Times: 1
+	Query: "54464" ; Times: 1
+	Query: "catalognumber:47954 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "232420" ; Times: 2
+	Query: "sternopygus macrurus" ; Times: 2
+	Query: "catalognumber:154968 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:68638" ; Times: 1
+	Query: "18905" ; Times: 2
+	Query: "18906" ; Times: 2
+	Query: "Salvelinus malma" ; Times: 1
+	Query: "164712" ; Times: 1
+	Query: "55549" ; Times: 1
+	Query: "61552" ; Times: 1
+	Query: "53471" ; Times: 1
+	Query: "58676" ; Times: 1
+	Query: "239415" ; Times: 1
+	Query: "Sphyrna lewini" ; Times: 1
+	Query: "58673" ; Times: 1
+	Query: "scott genus:gasterosteus" ; Times: 2
+	Query: "catalognumber:58180" ; Times: 1
+	Query: "180927" ; Times: 1
+	Query: "106469" ; Times: 1
+	Query: "224850" ; Times: 1
+	Query: "Cetorhinus maximus vntype:specimen" ; Times: 2
+	Query: "154164" ; Times: 1
+	Query: "Mullus surmuletus mappable:1" ; Times: 1
+	Query: "trichiurus lepturus vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "Horus Swift" ; Times: 2
+	Query: "220725" ; Times: 1
+	Query: "220724" ; Times: 1
+	Query: "catalognumber:154964 institutioncode:UF" ; Times: 3
+	Query: "43136" ; Times: 1
+	Query: "Epinephelus itajara" ; Times: 1
+	Query: "catalognumber:101610" ; Times: 1
+	Query: "66334" ; Times: 1
+	Query: "cypselurus callopterus" ; Times: 2
+	Query: "genus:Pseudocarcharias" ; Times: 1
+	Query: "93361" ; Times: 1
+	Query: "genus:Mitsukurina institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "danio rerio" ; Times: 2
+	Query: "61132" ; Times: 1
+	Query: "240726" ; Times: 1
+	Query: "61702" ; Times: 1
+	Query: "61707" ; Times: 2
+	Query: "10918" ; Times: 1
+	Query: "torpedo andersoni vntype:specimen" ; Times: 1
+	Query: "Sphyraena barracuda vntype:specimen year &gt;= 2015" ; Times: 1
+	Query: "Acarichthys" ; Times: 1
+	Query: "elops affinis" ; Times: 2
+	Query: "(139478)" ; Times: 1
+	Query: "161009" ; Times: 1
+	Query: "240728" ; Times: 1
+	Query: "80642" ; Times: 1
+	Query: "53454" ; Times: 1
+	Query: "genus:Mitsukurina" ; Times: 1
+	Query: "etmopterus spinax" ; Times: 1
+	Query: "154612" ; Times: 1
+	Query: "unicorn" ; Times: 1
+	Query: "hemigrammus rhodostomus" ; Times: 2
+	Query: "Cypselurus callopterus" ; Times: 2
+	Query: "catalognumber:203485" ; Times: 1
+	Query: "97825" ; Times: 1
+	Query: "zuec" ; Times: 1
+	Query: "catalognumber:73145 month&gt;=6 month&lt;=8" ; Times: 1
+	Query: "56080" ; Times: 1
+	Query: "catalognumber:208804" ; Times: 1
+	Query: "rob 4331" ; Times: 1
+	Query: "epinephelus hastissue:1" ; Times: 1
+	Query: "53464" ; Times: 2
+	Query: "52292" ; Times: 1
+	Query: "53460" ; Times: 2
+	Query: "215746" ; Times: 1
+	Query: "16051" ; Times: 1
+	Query: "16053" ; Times: 2
+	Query: "catalognumber:143263" ; Times: 1
+	Query: "35568" ; Times: 1
+	Query: "catalognumber:154965 institutioncode:UF" ; Times: 3
+	Query: "Lophiodes caulinaris" ; Times: 2
+	Query: "narcine entemedor" ; Times: 2
+	Query: "240963" ; Times: 1
+	Query: "etmopterus dianthus" ; Times: 1
+	Query: "county:&#34;Mexico&#34;" ; Times: 1
+	Query: "Leucaspius delineatus" ; Times: 1
+	Query: "cichla hastissue:1" ; Times: 1
+	Query: "86613" ; Times: 1
+	Query: "86593" ; Times: 1
+	Query: "vntype:specimen locality:Roque country:&#34;Venezuela&#34;" ; Times: 4
+	Query: "86614" ; Times: 1
+	Query: "Horus swift vntype:specimen" ; Times: 1
+	Query: "120005" ; Times: 1
+	Query: "117407" ; Times: 1
+	Query: "parakneria vntype:specimen hastissue:1" ; Times: 1
+	Query: "53626" ; Times: 1
+	Query: "Thunnus thynnus" ; Times: 1
+	Query: "elassodiscus caudatus" ; Times: 1
+	Query: "53470" ; Times: 1
+	Query: "86599" ; Times: 1
+	Query: "Caranx melampygus" ; Times: 1
+	Query: "gbifdatasetid:eccf4b09-f0c8-462d-a48c-41a7ce36815a" ; Times: 1
+	Query: "207436" ; Times: 1
+	Query: "catalognumber:154969 institutioncode:UF" ; Times: 1
+	Query: "54466" ; Times: 1
+	Query: "Sparisoma chrysopterum" ; Times: 1
+	Query: "240911" ; Times: 1
+	Query: "catalognumber:97652" ; Times: 1
+	Query: "19720" ; Times: 4
+	Query: "Psilorhynchus" ; Times: 1
+	Query: "86668" ; Times: 1
+	Query: "54583" ; Times: 1
+	Query: "56084" ; Times: 1
+	Query: "Galeus polli" ; Times: 2
+	Query: "murcielagos" ; Times: 1
+	Query: "horus swift" ; Times: 1
+	Query: "115820" ; Times: 1
+	Query: "220089" ; Times: 1
+	Query: "etmopterus baxteri" ; Times: 1
+	Query: "Lasiancistrus" ; Times: 1
+	Query: "Sphyraena barracuda vntype:specimen year &gt;= 2000" ; Times: 2
+	Query: "genus:etmopterus (holotype) hastypestatus:1" ; Times: 1
+	Query: "molasses" ; Times: 1
+	Query: "catalognumber:204984" ; Times: 1
+	Query: "207567" ; Times: 1
+	Query: "kneria vntype:specimen hastissue:1" ; Times: 3
+	Query: "Thunnus alalunga" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 1367 download events in this period)
+Total number of records downloaded: 669
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Colombia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-24 ; Times: 1
+	Date: 2019-11-25 ; Times: 1
+	Date: 2019-11-16 ; Times: 1
+	Date: 2019-11-01 ; Times: 2
+	Date: 2019-11-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "etmopterus" ; Times: 1
+	Query: "specificepithet:sucetta genus:erimyzon stateprovince:&#34;south carolina&#34; year &gt;= 200 year &lt;= 2019" ; Times: 2
+	Query: "cyprinodon eximius" ; Times: 1
+	Query: "Sphyrna mokarran" ; Times: 2
+	Query: "Acrocheilus alutaceus" ; Times: 1
+	Query: "(tilapia)" ; Times: 1
+
+
+End of report.
